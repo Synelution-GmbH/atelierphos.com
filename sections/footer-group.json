@@ -1,1 +1,70 @@
-{"type":"footer","name":"footer group","sections":{"footer":{"type":"footer","blocks":{"c30e81ca-569e-4ae7-8f32-a086d38634c0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/logo_3c4dd231-c656-48b2-849c-d3e01d4ff31f.png","image_width":250,"alignment":""}},"footer-0":{"type":"link_list","settings":{"heading":"Links","menu":"main-menu"}},"be508a69-eab2-4bd8-b66c-ffddb45e99da":{"type":"link_list","settings":{"heading":"Informationen","menu":"legale-links"}},"8c41e77e-2d98-426a-ae31-1508c541356b":{"type":"textarea","settings":{"heading":"Kontaktinformationen","contsubtext":"","footer_address":"Musterstraße 00","footer_contact_no":"+00 000 000","footer_contact_id":"muster@mustermail.com"}}},"block_order":["c30e81ca-569e-4ae7-8f32-a086d38634c0","footer-0","be508a69-eab2-4bd8-b66c-ffddb45e99da","8c41e77e-2d98-426a-ae31-1508c541356b"],"settings":{"wbfoot_bgcolor":"#f5f5f5","wbfoot_color":"#121212","wbfoot_hcolor":"#555555","enable_newsletter":true,"color_scheme":"accent-3","newsheading":"Newsletter","newssub":"<p>Erhalten Sie Informationen zu neuen Kollektionen als erster.<\/p>","enable_country_selector":true,"enable_language_selector":true,"enable_follow_on_shop":true,"payment_enable":true,"show_copyright":true,"scroll-to-top":true,"margin_top":60,"padding_top":60,"padding_bottom":60}}},"order":["footer"]}
+{
+  "type": "footer",
+  "name": "footer group",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "c30e81ca-569e-4ae7-8f32-a086d38634c0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_3c4dd231-c656-48b2-849c-d3e01d4ff31f.png",
+            "image_width": 250,
+            "alignment": ""
+          }
+        },
+        "footer-0": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Links",
+            "menu": "main-menu"
+          }
+        },
+        "be508a69-eab2-4bd8-b66c-ffddb45e99da": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Informationen",
+            "menu": "legale-links"
+          }
+        },
+        "8c41e77e-2d98-426a-ae31-1508c541356b": {
+          "type": "textarea",
+          "settings": {
+            "heading": "Kontaktinformationen",
+            "contsubtext": "",
+            "footer_address": "Musterstraße 00",
+            "footer_contact_no": "+00 000 000",
+            "footer_contact_id": "muster@mustermail.com"
+          }
+        }
+      },
+      "block_order": [
+        "c30e81ca-569e-4ae7-8f32-a086d38634c0",
+        "footer-0",
+        "be508a69-eab2-4bd8-b66c-ffddb45e99da",
+        "8c41e77e-2d98-426a-ae31-1508c541356b"
+      ],
+      "settings": {
+        "wbfoot_bgcolor": "#f5f5f5",
+        "wbfoot_color": "#121212",
+        "wbfoot_hcolor": "#555555",
+        "enable_newsletter": true,
+        "color_scheme": "accent-3",
+        "newsheading": "Newsletter",
+        "newssub": "<p>Erfahre als Erster von neuen Styles in unseren exklusiven Kollektionen. Melde dich jetzt an!<\/p>",
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "enable_follow_on_shop": true,
+        "payment_enable": true,
+        "show_copyright": true,
+        "scroll-to-top": true,
+        "margin_top": 60,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

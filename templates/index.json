@@ -1,1 +1,583 @@
-{"sections":{"1644650669e1107d39":{"type":"slideshow","blocks":{"01e1dddc-e334-4334-9475-16162d50ee67":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Header_1920x640px_3_Farbe.jpg","heading":"Dein Style-Upgrade","heading_size":"large","subheading":"Entdecke jetztdie brandneue 2024 Kollektion von Atelier Phos! Urbaner Chic, zeitlose Eleganz– jedes Teil ein Statement. Dein Style, unsere Leidenschaft.","subheadingtext":"","button_label":"Jetzt entdecken","link":"shopify:\/\/collections","box_align":"middle-left","show_text_box":false,"text_alignment":"left","image_overlay_opacity":0,"color_scheme":"accent-1","text_alignment_mobile":"center"}}},"block_order":["01e1dddc-e334-4334-9475-16162d50ee67"],"custom_css":["h2,p {color: black; max-width: 1000px;}","p {text-transform: none;}"],"settings":{"layout":"full_bleed","slide_height":"medium","slider_visual":"dots","pagicolor":"#ffffff","pagination_alignment":"center","auto_rotate":false,"change_slides_speed":5,"image_behavior":"none","show_text_below":false,"padding_top":0,"padding_bottom":0}},"2a94bc1d-3b7b-4f58-b86b-2c21919e7416":{"type":"scrolling-bar","custom_css":[],"settings":{"color_scheme":"accent-1","wb_marktext":"Urbaner Chic in jeder Naht: Kollektion 2024","mark_space":30,"mark_speed":20,"marq_diection":"right_left","padding_top":0,"padding_bottom":0}},"5f6bc1e8-8c39-402d-96fc-ff06a142ee5c":{"type":"collection-list","blocks":{"template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-0":{"type":"featured_collection","settings":{"collection":"hoodie","coll_desc":"Klassische Streetwear-Stücke mit bequemer Kängurutasche und warmer Kapuze."}},"template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-1":{"type":"featured_collection","settings":{"collection":"t-shirts","coll_desc":"Moderne Trends mit einem Hauch von Nostalgie vereinen."}},"template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-2":{"type":"featured_collection","settings":{"collection":"caps-und-muetzen","coll_desc":"Ausgefallene Mützen und Hüte"}}},"block_order":["template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-0","template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-1","template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-2"],"settings":{"title":"Trendsetter’s Choice","heading_size":"h1","Horizontal_alignment":"left","mobile_alignment":"center","subheading":"Stil definiert. Mode gestaltet.","image_ratio":"adapt","btntxt":"Jetzt Entdecken","link":"shopify:\/\/collections","wboverlaycolor":"#000000","wboverlaybg":"#ffffff","wboverlayoutline":"#ffffff","wboverlayhcolor":"#ffffff","wboverlayhbg":"#000000","wboverlayhoutline":"#000000","padding_top":60,"padding_bottom":0}},"7164a463-55ea-46ef-a91a-8c3f3dd268ef":{"type":"featured-collection","custom_css":[],"settings":{"title":"Vorgestellte Produkte","heading_size":"h0","collection":"winter-2023","products_to_show":12,"columns_desktop":4,"enable_desktop_slider":true,"color_scheme":"background-1","image_ratio":"portrait","display_product_type":false,"show_secondary_image":true,"show_vendor":false,"show_rating":false,"show_quick_view":true,"show_add_to_cart":true,"show_variants":true,"picker_type":"button","show_colorswatch":true,"show_view_all":true,"view_all_style":"solid","columns_mobile":"2","swipe_on_mobile":true,"padding_top":60,"padding_bottom":0}},"85fcfb2f-a597-45d4-8c4f-14efb599b4b1":{"type":"countdown-bar","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/organic-bucket-hat-stone-front-2-65576a4cd4482.jpg","image_height":"adapt","Horizontal_alignment":"center","mobile_alignment":"center","heading":"Heading","heading_size":"h0","subheading":"Add subheading here","wb_enddate":"","btntxt":"Button label","link":"shopify:\/\/collections","padding_top":60,"padding_bottom":0}},"d14f45a4-c834-455e-9de4-86ce3a78e8e2":{"type":"video-with-text","blocks":{"template--15816977678393__d14f45a4-c834-455e-9de4-86ce3a78e8e2-1676465494277d312c-0":{"type":"heading","settings":{"storytitle":"Video heading"}},"template--15816977678393__d14f45a4-c834-455e-9de4-86ce3a78e8e2-1676465494277d312c-1":{"type":"caption","settings":{"storysubtitle":"<p>Video banner sub heading here<\/p>"}},"template--15816977678393__d14f45a4-c834-455e-9de4-86ce3a78e8e2-1676465494277d312c-2":{"type":"button","settings":{"btntxt":"Button label","link":"shopify:\/\/collections"}}},"block_order":["template--15816977678393__d14f45a4-c834-455e-9de4-86ce3a78e8e2-1676465494277d312c-0","template--15816977678393__d14f45a4-c834-455e-9de4-86ce3a78e8e2-1676465494277d312c-1","template--15816977678393__d14f45a4-c834-455e-9de4-86ce3a78e8e2-1676465494277d312c-2"],"disabled":true,"settings":{"color_scheme":"background-2","Horizontal_alignment":"center","mobile_alignment":"center","video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","videosource":"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/22c17d20e2a34da9ad4e54264b4232f5.mp4","padding_top":60,"padding_bottom":0}},"20b455bd-3aab-49e9-81c4-fce7b89f9e8c":{"type":"image-with-text","blocks":{"template--15816977678393__20b455bd-3aab-49e9-81c4-fce7b89f9e8c-1676465566b3b48110-0":{"type":"heading","settings":{"storytitle":"Nachhaltigkeit im Fokus","heading_size":"h0"}},"template--15816977678393__20b455bd-3aab-49e9-81c4-fce7b89f9e8c-1676465566b3b48110-1":{"type":"caption","settings":{"storysubtitle":"<p>Teile unserer Kollektionen vereinen urbanen Chic mit umweltfreundlichen Prinzipien.<\/p><p>Achte auf unseren Bio-Vermerk – ein Symbol für Mode, die nicht nur deinen Stil, sondern auch die Umwelt respektiert.<\/p>"}},"template--15816977678393__20b455bd-3aab-49e9-81c4-fce7b89f9e8c-1676465566b3b48110-2":{"type":"button","settings":{"btntxt":"Jetzt shoppen","link":"shopify:\/\/collections\/bio-recycelte-produkte","button_style":"button--secondary","button_size":"bs_large"}}},"block_order":["template--15816977678393__20b455bd-3aab-49e9-81c4-fce7b89f9e8c-1676465566b3b48110-0","template--15816977678393__20b455bd-3aab-49e9-81c4-fce7b89f9e8c-1676465566b3b48110-1","template--15816977678393__20b455bd-3aab-49e9-81c4-fce7b89f9e8c-1676465566b3b48110-2"],"settings":{"color_scheme":"background-1","image":"shopify:\/\/shop_images\/oversized-faded-t-shirt-faded-eucalyptus-front-6557591a97746.jpg","image_width":"50%","image_position":"imgpleft","imgalign":"imgalignmiddle","image_height":"adapt","Horizontal_alignment":"center","mobile_alignment":"center","padding_top":60,"padding_bottom":0}},"333040a3-0e01-4f2f-bc28-e6f0097f0c22":{"type":"product-with-banner","blocks":{"template--15816977678393__333040a3-0e01-4f2f-bc28-e6f0097f0c22-167646568216fe3a54-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/ribbed-knit-beanie-black-front-655c7c7500a6e.jpg","image_height":"medium","storytitle":"Caps & Mützen","storysubtitle":"<p>Setzte Akzente mit unseren umweltfreundlichen Accessoires. Stilvolle Nachhaltigkeit, die beeindruckt.<\/p><p>Deine Must-haves!<\/p>","link":"shopify:\/\/collections\/beanies","product":"gerippte-strickmutze"}},"template--15816977678393__333040a3-0e01-4f2f-bc28-e6f0097f0c22-167646568216fe3a54-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/embroidered-crew-socks-white-left-655c7d10e6cf5.jpg","image_height":"medium","storytitle":"Socken als Must-haves!","storysubtitle":"<p>Unsere Socken setzen Statement, die deine Persönlichkeit unterstreichen.<br\/>Tauche ein in die Welt der trendigen Socken, designed für deinen individuellen<br\/>Look.<\/p>","link":"shopify:\/\/collections\/socks","product":"bestickte-socken"}}},"block_order":["template--15816977678393__333040a3-0e01-4f2f-bc28-e6f0097f0c22-167646568216fe3a54-0","template--15816977678393__333040a3-0e01-4f2f-bc28-e6f0097f0c22-167646568216fe3a54-1"],"custom_css":[".inline-richtext {text-transform: none;}","@media all and (min-width: 1265px) {.slider-button--prev {left: -50px; } .slider-button--next {right: -50px; }}"],"settings":{"image_ratio":"adapt","display_product_type":false,"show_rating":false,"show_secondary_image":false,"show_vendor":false,"show_quick_view":true,"show_add_to_cart":true,"show_variants":true,"picker_type":"button","show_colorswatch":true,"padding_top":60,"padding_bottom":0}},"cccab831-c74b-4f78-a7ee-b883cfbad050":{"type":"text-with-icons","blocks":{"template--15816977678393__cccab831-c74b-4f78-a7ee-b883cfbad050-1676465716d81b1bfb-0":{"type":"image","settings":{"icon1":"shipping","title":"Gratis Lieferung","demotext":"<p>ab einem Bestellwert von 60 CHF<\/p>"}},"template--15816977678393__cccab831-c74b-4f78-a7ee-b883cfbad050-1676465716d81b1bfb-1":{"type":"image","settings":{"icon1":"service","title":"24\/7 Service","demotext":"<p>Online Service für Kunden<\/p>"}},"template--15816977678393__cccab831-c74b-4f78-a7ee-b883cfbad050-1676465716d81b1bfb-2":{"type":"image","settings":{"icon1":"offer","title":"Special Deals","demotext":"<p>Angebote, die rocken<\/p>"}}},"block_order":["template--15816977678393__cccab831-c74b-4f78-a7ee-b883cfbad050-1676465716d81b1bfb-0","template--15816977678393__cccab831-c74b-4f78-a7ee-b883cfbad050-1676465716d81b1bfb-1","template--15816977678393__cccab831-c74b-4f78-a7ee-b883cfbad050-1676465716d81b1bfb-2"],"settings":{"title":"","heading_size":"h0","iconwidth":65,"column_alignment":"center","padding_top":60,"padding_bottom":0}},"1644902323b1323c6d":{"type":"lookbook","disabled":true,"settings":{"heading":"","heading_size":"h0","btntxt":"Jetzt Entdecken","wblooktop_1":23,"wblookleft_1":51,"product_1":"hut-aus-cord","wblooktop_2":79,"wblookleft_2":46,"product_2":"oversized-t-shirt-mit-verwaschenem-look","padding_top":60,"padding_bottom":0}},"c21be915-4563-486c-9739-6ce4de7240cb":{"type":"testimonial","blocks":{"template--15816977678393__c21be915-4563-486c-9739-6ce4de7240cb-1676465811144eff5a-0":{"type":"quote","settings":{"rev_title":"Qualität","author":"Anna M.","quote":"<p>Liebe die Qualität und den Stil!<\/p>","star_rating":5}},"template--15816977678393__c21be915-4563-486c-9739-6ce4de7240cb-1676465811144eff5a-1":{"type":"quote","settings":{"rev_title":"Nachhaltig","author":"Max K.","quote":"<p>Nachhaltige Mode, die wirklich cool ist.<\/p>","star_rating":5}},"template--15816977678393__c21be915-4563-486c-9739-6ce4de7240cb-1676465811144eff5a-2":{"type":"quote","settings":{"rev_title":"Lieblingsmarke","author":"Sophie L.","quote":"<p>Atelier Phos ist meine neue Lieblingsmarke.<\/p>","star_rating":5}},"template--15816977678393__c21be915-4563-486c-9739-6ce4de7240cb-1676465811144eff5a-3":{"type":"quote","settings":{"rev_title":"Gewissen & Stil","author":"Luisa G.","quote":"<p>Endlich Mode, die meinem Gewissen und meinem Stil gerecht wird.<\/p>","star_rating":5}},"472489a0-3547-407e-96d3-f3bb26e38b4a":{"type":"quote","settings":{"rev_title":"Umweltfreundlich","author":"Marc B.","quote":"<p>Umweltfreundlich und trotzdem so trendy.<\/p>","star_rating":5}}},"block_order":["template--15816977678393__c21be915-4563-486c-9739-6ce4de7240cb-1676465811144eff5a-0","template--15816977678393__c21be915-4563-486c-9739-6ce4de7240cb-1676465811144eff5a-1","template--15816977678393__c21be915-4563-486c-9739-6ce4de7240cb-1676465811144eff5a-2","template--15816977678393__c21be915-4563-486c-9739-6ce4de7240cb-1676465811144eff5a-3","472489a0-3547-407e-96d3-f3bb26e38b4a"],"custom_css":[".dummysvg {display: none;}",".original {height: 20px;}","h2 {text-transform: none;}"],"settings":{"title":"Was unsere Kunden sagen","heading_size":"h0","image_corners":"original","wbtest_bgcolor":"#f9f9f9","wbtest_color":"#000000","star_ratingclr":"#ffbb40","padding_top":60,"padding_bottom":0}},"1644902876a8ba65d3":{"type":"featured-blog","disabled":true,"settings":{"m_title":"latest blog","heading_size":"h0","blog":"news","show_image":true,"image_height":"adapt","columns_desktop":3,"show_date":true,"show_author":false,"show_desc":true,"show_cmment":false,"show_view_all":false,"columns_mobile":"2","padding_top":60,"padding_bottom":0}},"16449031867ba3e5f6":{"type":"logo-bar","blocks":{"1644903186f14e11a0-0":{"type":"logo_image","settings":{"link":""}},"a079b1ed-f075-493e-a054-81d8aad19bba":{"type":"logo_image","settings":{"link":""}},"7454f834-883c-493e-bfeb-9848dc61e559":{"type":"logo_image","settings":{"link":""}},"3596631b-246a-40f7-8f90-88cc863b4f2b":{"type":"logo_image","settings":{"link":""}},"015ab171-4310-4189-9509-e0aea269c4dc":{"type":"logo_image","settings":{"link":""}},"8e957c33-f3b3-452c-ac48-2bfbbbfec9ec":{"type":"logo_image","settings":{"link":""}},"65d6ee97-8622-403a-a5fe-042c434c4642":{"type":"logo_image","settings":{"link":""}},"e4b4ff92-3fbc-4b7e-aab5-71c36c26926b":{"type":"logo_image","settings":{"link":""}},"f9d1f2cf-e444-404c-9272-f9bc06644358":{"type":"logo_image","settings":{"link":""}}},"block_order":["1644903186f14e11a0-0","a079b1ed-f075-493e-a054-81d8aad19bba","7454f834-883c-493e-bfeb-9848dc61e559","3596631b-246a-40f7-8f90-88cc863b4f2b","015ab171-4310-4189-9509-e0aea269c4dc","8e957c33-f3b3-452c-ac48-2bfbbbfec9ec","65d6ee97-8622-403a-a5fe-042c434c4642","e4b4ff92-3fbc-4b7e-aab5-71c36c26926b","f9d1f2cf-e444-404c-9272-f9bc06644358"],"disabled":true,"settings":{"title":"Heading","heading_size":"h0","padding_top":60,"padding_bottom":0}},"99552a57-3946-4dd5-b0ec-81085d625dc8":{"type":"main-faq","blocks":{"template--16924114649305__99552a57-3946-4dd5-b0ec-81085d625dc8-question-1":{"type":"question","settings":{"title":"Welche Materialien verwendet Atelier Phos für die Kleidungsstücke?","text":"<p>Bei Atelier Phos legen wir Wert auf hochwertige Materialien. Unsere Kleidungsstücke bestehen aus sorgfältig ausgewählten, robusten Materialien, die nicht nur langlebig sind, sondern auch einen angenehmen Tragekomfort bieten.<\/p>"}},"template--16924114649305__99552a57-3946-4dd5-b0ec-81085d625dc8-question-2":{"type":"question","settings":{"title":"Wie pflege ich meine Atelier Phos Streetwear am besten?","text":"<p>Um die Qualität deiner Streetwear zu erhalten, empfehlen wir das Befolgen der Pflegehinweise auf den Etiketten. In der Regel können die meisten unserer Kleidungsstücke problemlos in der Maschine gewaschen werden. Vermeide jedoch übermäßiges Bügeln und Trocknen, um die Farben und Formen zu bewahren.<\/p>"}},"4c342141-1004-430a-9256-f13ed61625dc":{"type":"question","settings":{"title":"Gibt es spezielle Größen oder Schnitte für unterschiedliche Körpertypen?","text":"<p>Ja, wir bei Atelier Phos bemühen uns, eine Vielfalt an Größen und Schnitten anzubieten, um unterschiedlichen Körpertypen gerecht zu werden. Bitte schaue in unserer Größentabelle nach, um die optimale Passform für dich zu finden.<\/p>"}},"b4affba3-e868-45d7-89ae-bb3ae5fbb1ac":{"type":"question","settings":{"title":"Wie kann ich den Kundenservice von Atelier Phos erreichen?","text":"<p>Unser Kundenservice-Team steht dir jederzeit zur Verfügung. Du kannst uns per E-Mail unter costumercare@atelierphos.com kontaktieren oder unser Kontaktformular auf der Website nutzen. Wir streben danach, alle Anfragen so schnell wie möglich zu beantworten und dir den bestmöglichen Service zu bieten.<\/p>"}}},"block_order":["template--16924114649305__99552a57-3946-4dd5-b0ec-81085d625dc8-question-1","template--16924114649305__99552a57-3946-4dd5-b0ec-81085d625dc8-question-2","4c342141-1004-430a-9256-f13ed61625dc","b4affba3-e868-45d7-89ae-bb3ae5fbb1ac"],"custom_css":["h1,h2,h3,p,span {text-transform: none;}"],"settings":{"title":"FAQs","padding_top":80,"padding_bottom":20}}},"order":["1644650669e1107d39","2a94bc1d-3b7b-4f58-b86b-2c21919e7416","5f6bc1e8-8c39-402d-96fc-ff06a142ee5c","7164a463-55ea-46ef-a91a-8c3f3dd268ef","85fcfb2f-a597-45d4-8c4f-14efb599b4b1","d14f45a4-c834-455e-9de4-86ce3a78e8e2","20b455bd-3aab-49e9-81c4-fce7b89f9e8c","333040a3-0e01-4f2f-bc28-e6f0097f0c22","cccab831-c74b-4f78-a7ee-b883cfbad050","1644902323b1323c6d","c21be915-4563-486c-9739-6ce4de7240cb","1644902876a8ba65d3","16449031867ba3e5f6","99552a57-3946-4dd5-b0ec-81085d625dc8"]}
+{
+  "sections": {
+    "1644650669e1107d39": {
+      "type": "slideshow",
+      "blocks": {
+        "01e1dddc-e334-4334-9475-16162d50ee67": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Header_1920x640px_3_Farbe.jpg",
+            "heading": "Dein Style-Upgrade",
+            "heading_size": "large",
+            "subheading": "Entdecke jetzt die brandneue 2024 Kollektion von Atelier Phos! Urbaner Chic, zeitlose Eleganz– jedes Teil ein Statement. Dein Style, unsere Leidenschaft.",
+            "subheadingtext": "",
+            "button_label": "Jetzt entdecken",
+            "link": "shopify:\/\/collections",
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "01e1dddc-e334-4334-9475-16162d50ee67"
+      ],
+      "custom_css": [
+        "h2,p {color: black; max-width: 1000px;}",
+        "p {text-transform: none;}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "pagicolor": "#ffffff",
+        "pagination_alignment": "center",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "2a94bc1d-3b7b-4f58-b86b-2c21919e7416": {
+      "type": "scrolling-bar",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "wb_marktext": "Urbaner Chic in jeder Naht: Kollektion 2024",
+        "mark_space": 30,
+        "mark_speed": 20,
+        "marq_diection": "right_left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "5f6bc1e8-8c39-402d-96fc-ff06a142ee5c": {
+      "type": "collection-list",
+      "blocks": {
+        "template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "hoodie",
+            "coll_desc": "Klassische Streetwear-Stücke mit bequemer Kängurutasche und warmer Kapuze."
+          }
+        },
+        "template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "t-shirts",
+            "coll_desc": "Moderne Trends mit einem Hauch von Nostalgie vereinen."
+          }
+        },
+        "template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "caps-und-muetzen",
+            "coll_desc": "Ausgefallene Mützen und Hüte"
+          }
+        }
+      },
+      "block_order": [
+        "template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-0",
+        "template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-1",
+        "template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-2"
+      ],
+      "settings": {
+        "title": "Trendsetter’s Choice",
+        "heading_size": "h1",
+        "Horizontal_alignment": "left",
+        "mobile_alignment": "center",
+        "subheading": "Stil definiert. Mode gestaltet.",
+        "image_ratio": "adapt",
+        "btntxt": "Jetzt Entdecken",
+        "link": "shopify:\/\/collections",
+        "wboverlaycolor": "#000000",
+        "wboverlaybg": "#ffffff",
+        "wboverlayoutline": "#ffffff",
+        "wboverlayhcolor": "#ffffff",
+        "wboverlayhbg": "#000000",
+        "wboverlayhoutline": "#000000",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "7164a463-55ea-46ef-a91a-8c3f3dd268ef": {
+      "type": "featured-collection",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "title": "Vorgestellte Produkte",
+        "heading_size": "h0",
+        "collection": "winter-2023",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "display_product_type": false,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_view": true,
+        "show_add_to_cart": true,
+        "show_variants": true,
+        "picker_type": "button",
+        "show_colorswatch": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "85fcfb2f-a597-45d4-8c4f-14efb599b4b1": {
+      "type": "countdown-bar",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/organic-bucket-hat-stone-front-2-65576a4cd4482.jpg",
+        "image_height": "adapt",
+        "Horizontal_alignment": "center",
+        "mobile_alignment": "center",
+        "heading": "Heading",
+        "heading_size": "h0",
+        "subheading": "Add subheading here",
+        "wb_enddate": "",
+        "btntxt": "Button label",
+        "link": "shopify:\/\/collections",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "d14f45a4-c834-455e-9de4-86ce3a78e8e2": {
+      "type": "video-with-text",
+      "blocks": {
+        "template--15816977678393__d14f45a4-c834-455e-9de4-86ce3a78e8e2-1676465494277d312c-0": {
+          "type": "heading",
+          "settings": {
+            "storytitle": "Video heading"
+          }
+        },
+        "template--15816977678393__d14f45a4-c834-455e-9de4-86ce3a78e8e2-1676465494277d312c-1": {
+          "type": "caption",
+          "settings": {
+            "storysubtitle": "<p>Video banner sub heading here<\/p>"
+          }
+        },
+        "template--15816977678393__d14f45a4-c834-455e-9de4-86ce3a78e8e2-1676465494277d312c-2": {
+          "type": "button",
+          "settings": {
+            "btntxt": "Button label",
+            "link": "shopify:\/\/collections"
+          }
+        }
+      },
+      "block_order": [
+        "template--15816977678393__d14f45a4-c834-455e-9de4-86ce3a78e8e2-1676465494277d312c-0",
+        "template--15816977678393__d14f45a4-c834-455e-9de4-86ce3a78e8e2-1676465494277d312c-1",
+        "template--15816977678393__d14f45a4-c834-455e-9de4-86ce3a78e8e2-1676465494277d312c-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "background-2",
+        "Horizontal_alignment": "center",
+        "mobile_alignment": "center",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "videosource": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/22c17d20e2a34da9ad4e54264b4232f5.mp4",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "20b455bd-3aab-49e9-81c4-fce7b89f9e8c": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15816977678393__20b455bd-3aab-49e9-81c4-fce7b89f9e8c-1676465566b3b48110-0": {
+          "type": "heading",
+          "settings": {
+            "storytitle": "Nachhaltigkeit im Fokus",
+            "heading_size": "h0"
+          }
+        },
+        "template--15816977678393__20b455bd-3aab-49e9-81c4-fce7b89f9e8c-1676465566b3b48110-1": {
+          "type": "caption",
+          "settings": {
+            "storysubtitle": "<p>Teile unserer Kollektionen vereinen urbanen Chic mit umweltfreundlichen Prinzipien.<\/p><p>Achte auf unseren Bio-Vermerk – ein Symbol für Mode, die nicht nur deinen Stil, sondern auch die Umwelt respektiert.<\/p>"
+          }
+        },
+        "template--15816977678393__20b455bd-3aab-49e9-81c4-fce7b89f9e8c-1676465566b3b48110-2": {
+          "type": "button",
+          "settings": {
+            "btntxt": "Jetzt shoppen",
+            "link": "shopify:\/\/collections\/bio-recycelte-produkte",
+            "button_style": "button--secondary",
+            "button_size": "bs_large"
+          }
+        }
+      },
+      "block_order": [
+        "template--15816977678393__20b455bd-3aab-49e9-81c4-fce7b89f9e8c-1676465566b3b48110-0",
+        "template--15816977678393__20b455bd-3aab-49e9-81c4-fce7b89f9e8c-1676465566b3b48110-1",
+        "template--15816977678393__20b455bd-3aab-49e9-81c4-fce7b89f9e8c-1676465566b3b48110-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "image": "shopify:\/\/shop_images\/oversized-faded-t-shirt-faded-eucalyptus-front-6557591a97746.jpg",
+        "image_width": "50%",
+        "image_position": "imgpleft",
+        "imgalign": "imgalignmiddle",
+        "image_height": "adapt",
+        "Horizontal_alignment": "center",
+        "mobile_alignment": "center",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "333040a3-0e01-4f2f-bc28-e6f0097f0c22": {
+      "type": "product-with-banner",
+      "blocks": {
+        "template--15816977678393__333040a3-0e01-4f2f-bc28-e6f0097f0c22-167646568216fe3a54-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ribbed-knit-beanie-black-front-655c7c7500a6e.jpg",
+            "image_height": "medium",
+            "storytitle": "Caps & Mützen",
+            "storysubtitle": "<p>Setzte Akzente mit unseren umweltfreundlichen Accessoires. Stilvolle Nachhaltigkeit, die beeindruckt.<\/p><p>Deine Must-haves!<\/p>",
+            "link": "shopify:\/\/collections\/beanies",
+            "product": "gerippte-strickmutze"
+          }
+        },
+        "template--15816977678393__333040a3-0e01-4f2f-bc28-e6f0097f0c22-167646568216fe3a54-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/embroidered-crew-socks-white-left-655c7d10e6cf5.jpg",
+            "image_height": "medium",
+            "storytitle": "Socken als Must-haves!",
+            "storysubtitle": "<p>Unsere Socken setzen Statement, die deine Persönlichkeit unterstreichen.<br\/>Tauche ein in die Welt der trendigen Socken, designed für deinen individuellen<br\/>Look.<\/p>",
+            "link": "shopify:\/\/collections\/socks",
+            "product": "bestickte-socken"
+          }
+        }
+      },
+      "block_order": [
+        "template--15816977678393__333040a3-0e01-4f2f-bc28-e6f0097f0c22-167646568216fe3a54-0",
+        "template--15816977678393__333040a3-0e01-4f2f-bc28-e6f0097f0c22-167646568216fe3a54-1"
+      ],
+      "custom_css": [
+        ".inline-richtext {text-transform: none;}",
+        "@media all and (min-width: 1265px) {.slider-button--prev {left: -50px; } .slider-button--next {right: -50px; }}"
+      ],
+      "settings": {
+        "image_ratio": "adapt",
+        "display_product_type": false,
+        "show_rating": false,
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_quick_view": true,
+        "show_add_to_cart": true,
+        "show_variants": true,
+        "picker_type": "button",
+        "show_colorswatch": true,
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "cccab831-c74b-4f78-a7ee-b883cfbad050": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--15816977678393__cccab831-c74b-4f78-a7ee-b883cfbad050-1676465716d81b1bfb-0": {
+          "type": "image",
+          "settings": {
+            "icon1": "shipping",
+            "title": "Gratis Lieferung",
+            "demotext": "<p>ab einem Bestellwert von 60 CHF<\/p>"
+          }
+        },
+        "template--15816977678393__cccab831-c74b-4f78-a7ee-b883cfbad050-1676465716d81b1bfb-1": {
+          "type": "image",
+          "settings": {
+            "icon1": "service",
+            "title": "24\/7 Service",
+            "demotext": "<p>Online Service für Kunden<\/p>"
+          }
+        },
+        "template--15816977678393__cccab831-c74b-4f78-a7ee-b883cfbad050-1676465716d81b1bfb-2": {
+          "type": "image",
+          "settings": {
+            "icon1": "offer",
+            "title": "Special Deals",
+            "demotext": "<p>Angebote, die rocken<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15816977678393__cccab831-c74b-4f78-a7ee-b883cfbad050-1676465716d81b1bfb-0",
+        "template--15816977678393__cccab831-c74b-4f78-a7ee-b883cfbad050-1676465716d81b1bfb-1",
+        "template--15816977678393__cccab831-c74b-4f78-a7ee-b883cfbad050-1676465716d81b1bfb-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "iconwidth": 65,
+        "column_alignment": "center",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "1644902323b1323c6d": {
+      "type": "lookbook",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h0",
+        "btntxt": "Jetzt Entdecken",
+        "wblooktop_1": 23,
+        "wblookleft_1": 51,
+        "product_1": "hut-aus-cord",
+        "wblooktop_2": 79,
+        "wblookleft_2": 46,
+        "product_2": "oversized-t-shirt-mit-verwaschenem-look",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "c21be915-4563-486c-9739-6ce4de7240cb": {
+      "type": "testimonial",
+      "blocks": {
+        "template--15816977678393__c21be915-4563-486c-9739-6ce4de7240cb-1676465811144eff5a-0": {
+          "type": "quote",
+          "settings": {
+            "rev_title": "Qualität",
+            "author": "Anna M.",
+            "quote": "<p>Liebe die Qualität und den Stil!<\/p>",
+            "star_rating": 5
+          }
+        },
+        "template--15816977678393__c21be915-4563-486c-9739-6ce4de7240cb-1676465811144eff5a-1": {
+          "type": "quote",
+          "settings": {
+            "rev_title": "Nachhaltig",
+            "author": "Max K.",
+            "quote": "<p>Nachhaltige Mode, die wirklich cool ist.<\/p>",
+            "star_rating": 5
+          }
+        },
+        "template--15816977678393__c21be915-4563-486c-9739-6ce4de7240cb-1676465811144eff5a-2": {
+          "type": "quote",
+          "settings": {
+            "rev_title": "Lieblingsmarke",
+            "author": "Sophie L.",
+            "quote": "<p>Atelier Phos ist meine neue Lieblingsmarke.<\/p>",
+            "star_rating": 5
+          }
+        },
+        "template--15816977678393__c21be915-4563-486c-9739-6ce4de7240cb-1676465811144eff5a-3": {
+          "type": "quote",
+          "settings": {
+            "rev_title": "Gewissen & Stil",
+            "author": "Luisa G.",
+            "quote": "<p>Endlich Mode, die meinem Gewissen und meinem Stil gerecht wird.<\/p>",
+            "star_rating": 5
+          }
+        },
+        "472489a0-3547-407e-96d3-f3bb26e38b4a": {
+          "type": "quote",
+          "settings": {
+            "rev_title": "Umweltfreundlich",
+            "author": "Marc B.",
+            "quote": "<p>Umweltfreundlich und trotzdem so trendy.<\/p>",
+            "star_rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "template--15816977678393__c21be915-4563-486c-9739-6ce4de7240cb-1676465811144eff5a-0",
+        "template--15816977678393__c21be915-4563-486c-9739-6ce4de7240cb-1676465811144eff5a-1",
+        "template--15816977678393__c21be915-4563-486c-9739-6ce4de7240cb-1676465811144eff5a-2",
+        "template--15816977678393__c21be915-4563-486c-9739-6ce4de7240cb-1676465811144eff5a-3",
+        "472489a0-3547-407e-96d3-f3bb26e38b4a"
+      ],
+      "custom_css": [
+        ".dummysvg {display: none;}",
+        ".original {height: 20px;}",
+        "h2 {text-transform: none;}"
+      ],
+      "settings": {
+        "title": "Was unsere Kunden sagen",
+        "heading_size": "h0",
+        "image_corners": "original",
+        "wbtest_bgcolor": "#f9f9f9",
+        "wbtest_color": "#000000",
+        "star_ratingclr": "#ffbb40",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "1644902876a8ba65d3": {
+      "type": "featured-blog",
+      "disabled": true,
+      "settings": {
+        "m_title": "latest blog",
+        "heading_size": "h0",
+        "blog": "news",
+        "show_image": true,
+        "image_height": "adapt",
+        "columns_desktop": 3,
+        "show_date": true,
+        "show_author": false,
+        "show_desc": true,
+        "show_cmment": false,
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "16449031867ba3e5f6": {
+      "type": "logo-bar",
+      "blocks": {
+        "1644903186f14e11a0-0": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "a079b1ed-f075-493e-a054-81d8aad19bba": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "7454f834-883c-493e-bfeb-9848dc61e559": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "3596631b-246a-40f7-8f90-88cc863b4f2b": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "015ab171-4310-4189-9509-e0aea269c4dc": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "8e957c33-f3b3-452c-ac48-2bfbbbfec9ec": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "65d6ee97-8622-403a-a5fe-042c434c4642": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "e4b4ff92-3fbc-4b7e-aab5-71c36c26926b": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "f9d1f2cf-e444-404c-9272-f9bc06644358": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1644903186f14e11a0-0",
+        "a079b1ed-f075-493e-a054-81d8aad19bba",
+        "7454f834-883c-493e-bfeb-9848dc61e559",
+        "3596631b-246a-40f7-8f90-88cc863b4f2b",
+        "015ab171-4310-4189-9509-e0aea269c4dc",
+        "8e957c33-f3b3-452c-ac48-2bfbbbfec9ec",
+        "65d6ee97-8622-403a-a5fe-042c434c4642",
+        "e4b4ff92-3fbc-4b7e-aab5-71c36c26926b",
+        "f9d1f2cf-e444-404c-9272-f9bc06644358"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Heading",
+        "heading_size": "h0",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "99552a57-3946-4dd5-b0ec-81085d625dc8": {
+      "type": "main-faq",
+      "blocks": {
+        "template--16924114649305__99552a57-3946-4dd5-b0ec-81085d625dc8-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Welche Materialien verwendet Atelier Phos für die Kleidungsstücke?",
+            "text": "<p>Bei Atelier Phos legen wir Wert auf hochwertige Materialien. Unsere Kleidungsstücke bestehen aus sorgfältig ausgewählten, robusten Materialien, die nicht nur langlebig sind, sondern auch einen angenehmen Tragekomfort bieten.<\/p>"
+          }
+        },
+        "template--16924114649305__99552a57-3946-4dd5-b0ec-81085d625dc8-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Wie pflege ich meine Atelier Phos Streetwear am besten?",
+            "text": "<p>Um die Qualität deiner Streetwear zu erhalten, empfehlen wir das Befolgen der Pflegehinweise auf den Etiketten. In der Regel können die meisten unserer Kleidungsstücke problemlos in der Maschine gewaschen werden. Vermeide jedoch übermäßiges Bügeln und Trocknen, um die Farben und Formen zu bewahren.<\/p>"
+          }
+        },
+        "4c342141-1004-430a-9256-f13ed61625dc": {
+          "type": "question",
+          "settings": {
+            "title": "Gibt es spezielle Größen oder Schnitte für unterschiedliche Körpertypen?",
+            "text": "<p>Ja, wir bei Atelier Phos bemühen uns, eine Vielfalt an Größen und Schnitten anzubieten, um unterschiedlichen Körpertypen gerecht zu werden. Bitte schaue in unserer Größentabelle nach, um die optimale Passform für dich zu finden.<\/p>"
+          }
+        },
+        "b4affba3-e868-45d7-89ae-bb3ae5fbb1ac": {
+          "type": "question",
+          "settings": {
+            "title": "Wie kann ich den Kundenservice von Atelier Phos erreichen?",
+            "text": "<p>Unser Kundenservice-Team steht dir jederzeit zur Verfügung. Du kannst uns per E-Mail unter costumercare@atelierphos.com kontaktieren oder unser Kontaktformular auf der Website nutzen. Wir streben danach, alle Anfragen so schnell wie möglich zu beantworten und dir den bestmöglichen Service zu bieten.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16924114649305__99552a57-3946-4dd5-b0ec-81085d625dc8-question-1",
+        "template--16924114649305__99552a57-3946-4dd5-b0ec-81085d625dc8-question-2",
+        "4c342141-1004-430a-9256-f13ed61625dc",
+        "b4affba3-e868-45d7-89ae-bb3ae5fbb1ac"
+      ],
+      "custom_css": [
+        "h1,h2,h3,p,span {text-transform: none;}"
+      ],
+      "settings": {
+        "title": "FAQs",
+        "padding_top": 80,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "1644650669e1107d39",
+    "2a94bc1d-3b7b-4f58-b86b-2c21919e7416",
+    "5f6bc1e8-8c39-402d-96fc-ff06a142ee5c",
+    "7164a463-55ea-46ef-a91a-8c3f3dd268ef",
+    "85fcfb2f-a597-45d4-8c4f-14efb599b4b1",
+    "d14f45a4-c834-455e-9de4-86ce3a78e8e2",
+    "20b455bd-3aab-49e9-81c4-fce7b89f9e8c",
+    "333040a3-0e01-4f2f-bc28-e6f0097f0c22",
+    "cccab831-c74b-4f78-a7ee-b883cfbad050",
+    "1644902323b1323c6d",
+    "c21be915-4563-486c-9739-6ce4de7240cb",
+    "1644902876a8ba65d3",
+    "16449031867ba3e5f6",
+    "99552a57-3946-4dd5-b0ec-81085d625dc8"
+  ]
+}

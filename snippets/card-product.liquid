@@ -36,7 +36,7 @@
             <div id="webipro-{{ section.id }}-{{ card_product.id }}" class="card__media"> 
                 
                 {%- assign media = card_product.selected_or_first_available_variant.featured_media -%} 
-                    <div class="product__media-item" data-media-id="{{ section.id }}-{{ card_product.id }}-{{ media.id }}">
+                    <div class="product__media-item" data-media-id="{{ section.id }}-{{ card_product.id }}-initial{{ media.id }}">
                         <a href="{{ card_product.url | append: '?variant=' | append: card_product.selected_or_first_available_variant.id | default: '#' }}" title="{{ card_product.title | escape }}" class="media media--transparent media--{{ media_size }} media--hover-effect" {% if media_size == 'adapt' and card_product.featured_media %} style="padding-bottom: {{ 1 | divided_by: featured_media_aspect_ratio | times: 100 }}%;"{% endif %}>
                             <img class="img-fluid mx-auto lazyload abc" 
                             srcset="{%- if card_product.featured_media.width >= 165 -%}{{ card_product.featured_media | image_url: width: 165 }} 165w,{%- endif -%}
@@ -59,7 +59,7 @@
                             width="{{ card_product.featured_media.width }}"
                             height="{{ card_product.featured_media.height }}"
                             alt="{{ card_product.featured_media.alt | escape }}">
-                            {%- if card_product.media[1] != nil and show_secondary_image -%}
+                            {% comment %} {%- if card_product.media[1] != nil and show_secondary_image -%}
                             <img srcset="{%- if card_product.media[1].width >= 165 -%}{{ card_product.media[1] | image_url: width: 165 }} 165w,{%- endif -%}
                                   {%- if card_product.media[1].width >= 360 -%}{{ card_product.media[1] | image_url: width: 360 }} 360w,{%- endif -%}
                                   {% if card_product.media[1].width >= 493 %}{{ card_product.media[1] | image_url: width: 493 }} 493w,{% endif %}
@@ -75,18 +75,21 @@
                               loading="lazy"
                               width="{{ card_product.media[1].width }}"
                               height="{{ card_product.media[1].height }}">
-                        {%- endif -%}
+                        {%- endif -%} {% endcomment %}
                         </a>
                     </div>
                
                 {%- liquid
-                assign media_to_render = card_product.featured_media.id
+                assign media_to_render = ''
                 for variant in card_product.variants
-                assign media_to_render = media_to_render | append: variant.featured_media.id | append: ' '
+                  assign media_to_render = media_to_render | append: variant.featured_media.id | append: ' '
                 endfor
                 -%}
+
                 {%- for media in card_product.media -%}
-                    {%- if media_to_render contains media.id and media.id != card_product.selected_or_first_available_variant.featured_media.id -%}
+                  {% comment %} and media.id != card_product.selected_or_first_available_variant.featured_media.id {% endcomment %}
+                    {%- if media_to_render contains media.id -%}
+
                         <div class="product__media-item" data-media-id="{{ section.id }}-{{ card_product.id }}-{{ media.id }}">
                             <a href="{{ card_product.url | append: '?variant=' | append: card_product.selected_or_first_available_variant.id | default: '#' }}" title="{{ card_product.title | escape }}" class="media media--transparent media--{{ media_size }} media--hover-effect" {% if media_size == 'adapt' and card_product.featured_media %} style="padding-bottom: {{ 1 | divided_by: featured_media_aspect_ratio | times: 100 }}%;"{% endif %}>
                                 <img class="img-fluid mx-auto lazyload abcs"
@@ -110,7 +113,24 @@
                                 width="{{ media.preview_image.width }}"
                                 height="{{ media.preview_image.height }}"
                                 alt="{{ media.preview_image.alt | escape }}">
-                                {%- if card_product.media[1] != nil and show_secondary_image -%}
+                                {% comment %} {%- if card_product.media[0] != nil and show_secondary_image -%}
+                                <img srcset="{%- if card_product.media[1].width >= 165 -%}{{ card_product.media[0] | image_url: width: 165 }} 165w,{%- endif -%}
+                                      {%- if card_product.media[0].width >= 360 -%}{{ card_product.media[0] | image_url: width: 360 }} 360w,{%- endif -%}
+                                      {% if card_product.media[0].width >= 493 %}{{ card_product.media[0] | image_url: width: 493 }} 493w,{% endif %}
+                                      {% if card_product.media[0].width >= 600 %}{{ card_product.media[0] | image_url: width: 600 }} 600w,{% endif %}
+                                      {% if card_product.media[0].width >= 713 %}{{ card_product.media[0] | image_url: width: 713 }} 713w,{% endif %}
+                                      {% if card_product.media[0].width >= 823 %}{{ card_product.media[0] | image_url: width: 823 }} 823w,{% endif %}
+                                      {% if card_product.media[0].width >= 992 %}{{ card_product.media[0] | image_url: width: 992 }} 992w,{% endif %}
+                                      {{ card_product.media[0] | image_url }} {{ card_product.media[0].width }}w"
+                                  src="{{ card_product.media[0] | image_url: width: 370 }}"
+                                  alt="{{ card_product.media[0].alt | escape }}"
+                                  sizes="(min-width: {{ settings.page_width }}px) {{ settings.page_width | minus: 130 | divided_by: 4 }}px, (min-width: 992px) calc((100vw - 130px) / 4), (min-width: 768px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                                  class="motion-reduce img-fluid mx-auto lazyload"
+                                  loading="lazy"
+                                  width="{{ card_product.media[1].width }}"
+                                  height="{{ card_product.media[1].height }}">
+                                {%- endif -%} {% endcomment %}
+                                {% comment %} {%- if card_product.media[1] != nil and show_secondary_image -%}
                                 <img srcset="{%- if card_product.media[1].width >= 165 -%}{{ card_product.media[1] | image_url: width: 165 }} 165w,{%- endif -%}
                                       {%- if card_product.media[1].width >= 360 -%}{{ card_product.media[1] | image_url: width: 360 }} 360w,{%- endif -%}
                                       {% if card_product.media[1].width >= 493 %}{{ card_product.media[1] | image_url: width: 493 }} 493w,{% endif %}
@@ -126,7 +146,7 @@
                                   loading="lazy"
                                   width="{{ card_product.media[1].width }}"
                                   height="{{ card_product.media[1].height }}">
-                                {%- endif -%}
+                                {%- endif -%} {% endcomment %}
                             </a>
                         </div>
                     {%- endif -%}
@@ -231,14 +251,15 @@
                                             value="{{ value | escape }}"
                                             aria-label="Options"
                                             form="{{ product_form_id }}"
-                                            {% if option.selected_value == value %}checked{% endif %}>
+                                            {% if  option.name != 'Farbe' and option.selected_value == value %}checked{% endif %}>
 
-                                            {% if option.name == 'Color' and show_colorswatch %}
+                                              {% if option.name == 'Color' and show_colorswatch %}
                                                 {%- liquid
                                                     assign color_file_name = value | handle | append: '.' | append: 'png'
                                                     assign swatchimage = color_file_name | file_img_url: '50x50' | prepend: 'https:' | split: '?' | first
                                                     assign colorswatchvalue = value | downcase | replace: ' ', ''
                                                 -%}
+
                                                 <label class="color-swatchimg color-swatch {% if option.selected_value == value %} active{% endif %}" for="{{ section.id }}-{{ card_product.id }}-{{ option.position }}-{{ forloop.index0 }}" data-val="{{ value }}"
                                                 style="background-color: {{ colorswatchvalue }};{% if images[color_file_name] != blank %}  background-image: url({{ swatchimage }});{% endif %}"></label>
                                             {% else %}

@@ -1,1 +1,241 @@
-{"sections":{"main":{"type":"main-product","blocks":{"title":{"type":"title","settings":{"heading_size":"h0"}},"73cf297d-259e-464c-bd6e-a4dc3925716f":{"type":"sku","disabled":true,"settings":{}},"price":{"type":"price","settings":{}},"variant_picker":{"type":"variant_picker","settings":{"picker_type":"button","show_colorswatch":true}},"7bc1714c-9d6a-4368-b677-08b46b8dee8a":{"type":"stock_countdown","settings":{"max_stock":66,"limited_stock_cut_off":10,"limited_stock_message":"Nur noch {stock_number} Stück übrig","instock_message":"Auf Lager ({stock_number} Stück), Bereit für den Versand","continue_selling_message":"","limited_stock_color":"#ff0000","in_stock_color":"#008a00","continue_selling_color":"#ff0000"}},"quantity_selector":{"type":"quantity_selector","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true,"show_gift_card_recipient":true}},"3293aa46-ec0c-4c30-b783-8c210ee66f5e":{"type":"product_meta","settings":{"show_vendor":true,"display_product_type":true,"display_tags":true}},"53d1b536-e8c6-416b-81ae-5537d48a8356":{"type":"share_button","settings":{"share_facebook":true,"share_twitter":true,"share_pinterest":true}},"description":{"type":"description","settings":{"pdesc_title":"Produktbeschreibung"}},"27036c39-0467-41e3-84cb-e6b47122d064":{"type":"complementary","settings":{"block_heading":"Pairs well with","image_ratio":"adapt","show_secondary_image":false,"make_collapsible_row":false,"icon":"price_tag","product_list_limit":10,"products_per_page":3}}},"block_order":["title","73cf297d-259e-464c-bd6e-a4dc3925716f","price","variant_picker","7bc1714c-9d6a-4368-b677-08b46b8dee8a","quantity_selector","buy_buttons","3293aa46-ec0c-4c30-b783-8c210ee66f5e","53d1b536-e8c6-416b-81ae-5537d48a8356","description","27036c39-0467-41e3-84cb-e6b47122d064"],"settings":{"enable_sticky_info":true,"gallery_layout":"thumbnail_slider","media_size":"small","mobile_thumbnails":"show","hide_variants":false,"enable_video_looping":false,"enable_desctab":false,"padding_top":0,"padding_bottom":0}},"ced13132-2bac-4df9-9a2b-db1a3b442dec":{"type":"image-gallery","blocks":{"template--15816977940537__ced13132-2bac-4df9-9a2b-db1a3b442dec-16764668622e01adb2-0":{"type":"image","settings":{"storytitle":"Heading","showtext":"Button label","link":"shopify:\/\/collections"}},"template--15816977940537__ced13132-2bac-4df9-9a2b-db1a3b442dec-16764668622e01adb2-1":{"type":"image","settings":{"storytitle":"Heading","showtext":"Button label","link":"shopify:\/\/collections"}},"template--15816977940537__ced13132-2bac-4df9-9a2b-db1a3b442dec-16764668622e01adb2-2":{"type":"image","settings":{"storytitle":"Heading","showtext":"Button label","link":"shopify:\/\/collections"}}},"block_order":["template--15816977940537__ced13132-2bac-4df9-9a2b-db1a3b442dec-16764668622e01adb2-0","template--15816977940537__ced13132-2bac-4df9-9a2b-db1a3b442dec-16764668622e01adb2-1","template--15816977940537__ced13132-2bac-4df9-9a2b-db1a3b442dec-16764668622e01adb2-2"],"disabled":true,"settings":{"m_title":"","heading_size":"h0","image_height":"adapt","enable_desktop_slider":false,"swipe_on_mobile":false,"wbgltext":"#ffffff","wboverlaycolor":"#000000","wboverlaybg":"#ffffff","wboverlayoutline":"#000000","wboverlayhcolor":"#ffffff","wboverlayhbg":"#000000","wboverlayhoutline":"#121212","padding_top":60,"padding_bottom":0}},"bf97d278-f9a2-4604-b21e-432d7f8aa605":{"type":"text-with-icons","blocks":{"template--15816977940537__bf97d278-f9a2-4604-b21e-432d7f8aa605-167646691472460acc-0":{"type":"image","settings":{"icon1":"shipping","title":"Gratis Lieferung","demotext":"Ab einem Bestellwert von 60 CHF"}},"template--15816977940537__bf97d278-f9a2-4604-b21e-432d7f8aa605-167646691472460acc-1":{"type":"image","settings":{"icon1":"service","title":"24\/7 Service","demotext":"Online Service für Kunden"}},"template--15816977940537__bf97d278-f9a2-4604-b21e-432d7f8aa605-167646691472460acc-2":{"type":"image","settings":{"icon1":"offer","title":"SPECIAL DEALS","demotext":"Angebote, Die Rocken"}}},"block_order":["template--15816977940537__bf97d278-f9a2-4604-b21e-432d7f8aa605-167646691472460acc-0","template--15816977940537__bf97d278-f9a2-4604-b21e-432d7f8aa605-167646691472460acc-1","template--15816977940537__bf97d278-f9a2-4604-b21e-432d7f8aa605-167646691472460acc-2"],"custom_css":["p {text-transform: none;}"],"settings":{"title":"","heading_size":"h0","iconwidth":65,"column_alignment":"center","padding_top":60,"padding_bottom":0}},"product-recommendations":{"type":"product-recommendations","settings":{"heading":"Ähnliche Produkte","products_to_show":6,"columns_desktop":3,"show__slider":true,"color_scheme":"background-1","image_ratio":"square","show_secondary_image":true,"show_vendor":true,"show_rating":false,"display_product_type":true,"show_quick_view":true,"show_add_to_cart":true,"show_variants":true,"picker_type":"button","show_colorswatch":true,"columns_mobile":"2","padding_top":60,"padding_bottom":0}}},"order":["main","ced13132-2bac-4df9-9a2b-db1a3b442dec","bf97d278-f9a2-4604-b21e-432d7f8aa605","product-recommendations"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h0"
+          }
+        },
+        "73cf297d-259e-464c-bd6e-a4dc3925716f": {
+          "type": "sku",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "show_colorswatch": true
+          }
+        },
+        "7bc1714c-9d6a-4368-b677-08b46b8dee8a": {
+          "type": "stock_countdown",
+          "settings": {
+            "max_stock": 66,
+            "limited_stock_cut_off": 10,
+            "limited_stock_message": "Nur noch {stock_number} Stück übrig",
+            "instock_message": "Auf Lager ({stock_number} Stück), Bereit für den Versand",
+            "continue_selling_message": "Bald wieder erhältlich",
+            "limited_stock_color": "#ff0000",
+            "in_stock_color": "#008a00",
+            "continue_selling_color": "#ff0000"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "3293aa46-ec0c-4c30-b783-8c210ee66f5e": {
+          "type": "product_meta",
+          "settings": {
+            "show_vendor": true,
+            "display_product_type": true,
+            "display_tags": true
+          }
+        },
+        "53d1b536-e8c6-416b-81ae-5537d48a8356": {
+          "type": "share_button",
+          "settings": {
+            "share_facebook": true,
+            "share_twitter": true,
+            "share_pinterest": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "pdesc_title": "Produktbeschreibung"
+          }
+        },
+        "27036c39-0467-41e3-84cb-e6b47122d064": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "Pairs well with",
+            "image_ratio": "adapt",
+            "show_secondary_image": false,
+            "make_collapsible_row": false,
+            "icon": "price_tag",
+            "product_list_limit": 10,
+            "products_per_page": 3
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "73cf297d-259e-464c-bd6e-a4dc3925716f",
+        "price",
+        "variant_picker",
+        "7bc1714c-9d6a-4368-b677-08b46b8dee8a",
+        "quantity_selector",
+        "buy_buttons",
+        "3293aa46-ec0c-4c30-b783-8c210ee66f5e",
+        "53d1b536-e8c6-416b-81ae-5537d48a8356",
+        "description",
+        "27036c39-0467-41e3-84cb-e6b47122d064"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "gallery_layout": "thumbnail_slider",
+        "media_size": "small",
+        "mobile_thumbnails": "show",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "enable_desctab": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "ced13132-2bac-4df9-9a2b-db1a3b442dec": {
+      "type": "image-gallery",
+      "blocks": {
+        "template--15816977940537__ced13132-2bac-4df9-9a2b-db1a3b442dec-16764668622e01adb2-0": {
+          "type": "image",
+          "settings": {
+            "storytitle": "Heading",
+            "showtext": "Button label",
+            "link": "shopify:\/\/collections"
+          }
+        },
+        "template--15816977940537__ced13132-2bac-4df9-9a2b-db1a3b442dec-16764668622e01adb2-1": {
+          "type": "image",
+          "settings": {
+            "storytitle": "Heading",
+            "showtext": "Button label",
+            "link": "shopify:\/\/collections"
+          }
+        },
+        "template--15816977940537__ced13132-2bac-4df9-9a2b-db1a3b442dec-16764668622e01adb2-2": {
+          "type": "image",
+          "settings": {
+            "storytitle": "Heading",
+            "showtext": "Button label",
+            "link": "shopify:\/\/collections"
+          }
+        }
+      },
+      "block_order": [
+        "template--15816977940537__ced13132-2bac-4df9-9a2b-db1a3b442dec-16764668622e01adb2-0",
+        "template--15816977940537__ced13132-2bac-4df9-9a2b-db1a3b442dec-16764668622e01adb2-1",
+        "template--15816977940537__ced13132-2bac-4df9-9a2b-db1a3b442dec-16764668622e01adb2-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "m_title": "",
+        "heading_size": "h0",
+        "image_height": "adapt",
+        "enable_desktop_slider": false,
+        "swipe_on_mobile": false,
+        "wbgltext": "#ffffff",
+        "wboverlaycolor": "#000000",
+        "wboverlaybg": "#ffffff",
+        "wboverlayoutline": "#000000",
+        "wboverlayhcolor": "#ffffff",
+        "wboverlayhbg": "#000000",
+        "wboverlayhoutline": "#121212",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "bf97d278-f9a2-4604-b21e-432d7f8aa605": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--15816977940537__bf97d278-f9a2-4604-b21e-432d7f8aa605-167646691472460acc-0": {
+          "type": "image",
+          "settings": {
+            "icon1": "shipping",
+            "title": "Gratis Lieferung",
+            "demotext": "Ab einem Bestellwert von 60 CHF"
+          }
+        },
+        "template--15816977940537__bf97d278-f9a2-4604-b21e-432d7f8aa605-167646691472460acc-1": {
+          "type": "image",
+          "settings": {
+            "icon1": "service",
+            "title": "24\/7 Service",
+            "demotext": "Online Service für Kunden"
+          }
+        },
+        "template--15816977940537__bf97d278-f9a2-4604-b21e-432d7f8aa605-167646691472460acc-2": {
+          "type": "image",
+          "settings": {
+            "icon1": "offer",
+            "title": "SPECIAL DEALS",
+            "demotext": "Angebote, Die Rocken"
+          }
+        }
+      },
+      "block_order": [
+        "template--15816977940537__bf97d278-f9a2-4604-b21e-432d7f8aa605-167646691472460acc-0",
+        "template--15816977940537__bf97d278-f9a2-4604-b21e-432d7f8aa605-167646691472460acc-1",
+        "template--15816977940537__bf97d278-f9a2-4604-b21e-432d7f8aa605-167646691472460acc-2"
+      ],
+      "custom_css": [
+        "p {text-transform: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "iconwidth": 65,
+        "column_alignment": "center",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "Ähnliche Produkte",
+        "products_to_show": 6,
+        "columns_desktop": 3,
+        "show__slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "display_product_type": true,
+        "show_quick_view": true,
+        "show_add_to_cart": true,
+        "show_variants": true,
+        "picker_type": "button",
+        "show_colorswatch": true,
+        "columns_mobile": "2",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "ced13132-2bac-4df9-9a2b-db1a3b442dec",
+    "bf97d278-f9a2-4604-b21e-432d7f8aa605",
+    "product-recommendations"
+  ]
+}

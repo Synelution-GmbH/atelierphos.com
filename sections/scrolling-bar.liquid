@@ -1,0 +1,195 @@
+<div class="section-{{ section.id }}-padding">
+<div class="marquee color-{{ section.settings.color_scheme }} gradient">
+  <div class=" marquee-child marquee_inner-{{ section.id }} {% if section.settings.marq_diection == 'left_right' %} left_right {% else %} right_left {% endif %}" >
+    {%- for i in (1..150) -%}
+      <p class="inline-richtext">{{ section.settings.wb_marktext }}&nbsp;</p>
+    {%- endfor -%}
+  </div>
+</div>
+</div>
+{%- style -%}
+/* Scrolling bar */
+.marquee {
+    position: relative;
+    width: 100vw;
+    max-width: 100%;
+    overflow-x: hidden;
+    padding: 15px 0;
+}
+.marquee_inner-{{ section.id }} {
+    white-space: nowrap;
+    font-size: calc(var(--font-body-scale) * 16px);
+    display: flex;
+    align-items: center;
+}
+.marquee-child:hover{
+  animation-play-state: paused!important;
+  cursor: pointer;
+}
+.marquee .marquee-child{
+    width: auto;
+    white-space: nowrap;
+    display: inline-flex;
+    max-width: 100%;
+    position: relative;
+    white-space: nowrap;
+    will-change: transform;
+}
+.marquee_inner-{{ section.id }} p {
+    margin-bottom: 0;
+    color: rgba(var(--color-foreground));
+}
+.marquee_inner-{{ section.id }}.left_right {
+    animation: {{ section.settings.mark_speed }}s linear infinite reverse leftmarquee;
+}
+.marquee_inner-{{ section.id }}.right_left {
+    animation: {{ section.settings.mark_speed }}s linear infinite reverse rightmarquee;
+}
+.marquee_inner-{{ section.id }}{
+  gap: {{ section.settings.mark_space }}px;
+}
+.section-{{ section.id }}-padding {
+    padding-top: {{ section.settings.padding_top }}px;
+    padding-bottom: {{ section.settings.padding_bottom }}px;
+}
+
+@keyframes rightmarquee {
+    from {
+        transform: translate3d(-100%, 0, 0) 
+    }
+    to {
+        transform: translate3d(0, 0, 0) 
+    }
+}
+@keyframes leftmarquee {
+    from {
+        transform: translate3d(0, 0, 0) 
+    }
+    to {
+        transform: translate3d(-100%, 0, 0) 
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .section-{{ section.id }}-padding {
+        padding-top: {{ section.settings.padding_top | times: 0.5 | round: 0 }}px;
+        padding-bottom: {{ section.settings.padding_bottom | times: 0.5 | round: 0 }}px;
+    }
+    .marquee_inner-{{ section.id }} {
+        font-size: calc(var(--font-body-scale) * 14px);
+    }
+}
+{%- endstyle -%}
+{% schema %}
+  {
+  "name": "Scrolling bar",
+  "disabled_on": {
+    "groups": [
+      "custom.overlay"
+    ]
+  },
+    "settings": [
+      {
+        "type": "select", 
+        "id": "color_scheme",
+        "options": [
+          {
+            "value": "accent-1",
+            "label": "t:sections.announcement-bar.blocks.announcement.settings.color_scheme.options__1.label"
+          },
+          {
+            "value": "accent-2",
+            "label": "t:sections.announcement-bar.blocks.announcement.settings.color_scheme.options__2.label"
+          },
+          {
+            "value": "accent-3",
+            "label": "t:sections.announcement-bar.blocks.announcement.settings.color_scheme.options__3.label"
+          },
+          {
+            "value": "background-1",
+            "label": "t:sections.announcement-bar.blocks.announcement.settings.color_scheme.options__4.label"
+          },
+          {
+            "value": "background-2",
+            "label": "t:sections.announcement-bar.blocks.announcement.settings.color_scheme.options__5.label"
+          }
+        ],
+        "default": "accent-1",
+        "label": "t:sections.announcement-bar.blocks.announcement.settings.color_scheme.label"
+      },
+      {
+        "type": "inline_richtext",
+        "id": "wb_marktext",
+        "label": "Heading",  
+        "default": "Add promotional text here",
+        "info": "t:sections.slideshow.blocks.slide.settings.heading.info"
+      },
+
+      {
+        "type": "range",
+        "id": "mark_space",
+        "min": 0,
+        "max": 100,
+        "step": 10,
+        "unit": "px",
+        "label": "Space between items",
+        "default": 10
+      },
+      {
+        "type": "range",
+        "id": "mark_speed",
+        "min": 0,
+        "max": 100,
+        "step": 2,
+        "unit": "s",
+        "label": "Speed",
+        "default": 20
+      },
+      {
+        "type": "select",
+        "id": "marq_diection",
+        "label": "Direction",
+        "options": [
+          {
+            "value": "left_right",
+            "label": "Left to right"
+          },
+          {
+            "value": "right_left",
+            "label": "Right to left"
+          }
+        ],
+        "default": "right_left"
+      },
+      {
+        "type": "header",
+        "content": "t:sections.all.padding.section_padding_heading"
+      },
+      {
+        "type": "range",
+        "id": "padding_top",
+        "min": 0,
+        "max": 100,
+        "step": 4,
+        "unit": "px",
+        "label": "t:sections.all.padding.padding_top",
+        "default": 0
+      },
+      {
+        "type": "range",
+        "id": "padding_bottom",
+        "min": 0,
+        "max": 100,
+        "step": 4,
+        "unit": "px",
+        "label": "t:sections.all.padding.padding_bottom",
+        "default": 0
+      }
+    ],
+    "presets": [
+      {
+        "name": "Scrolling bar"
+      }
+    ]
+  }
+{% endschema %}

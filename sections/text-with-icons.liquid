@@ -1,0 +1,233 @@
+{{ 'section-multicolumn.css' | asset_url | stylesheet_tag }}
+{%- style -%}
+.deliveryinfo-{{ section.id }} ul .multis-svg svg{
+  width: {{ section.settings.iconwidth }}px;
+  height: {{ section.settings.iconwidth }}px;
+}
+.section-{{ section.id }}-padding {
+    padding-top: {{ section.settings.padding_top }}px;
+    padding-bottom: {{ section.settings.padding_bottom }}px;
+}
+@media screen and (max-width: 991px) {
+    .section-{{ section.id }}-padding {
+        padding-top: {{ section.settings.padding_top | times: 0.5 | round: 0 }}px;
+        padding-bottom: {{ section.settings.padding_bottom | times: 0.5 | round: 0 }}px;
+    }
+    .deliveryinfo-{{ section.id }} ul .multis-svg svg {
+        width: 40px;
+        height: 40px;
+    }
+}
+{%- endstyle -%}
+
+<div class="multicolumn {% if section.settings.title == blank %} no-heading{% endif %}">
+  <div class="page-width section-{{ section.id }}-padding isolate">
+    {% if section.settings.title != blank %}
+        <h2 class="heading text-center inline-richtext {{ section.settings.heading_size }}"><span>{{ section.settings.title }}</span></h2>
+    {% endif %}
+      <div class="deliveryinfo deliveryinfo-{{ section.id }} multicolumn-list grid grid--1-col{% if section.blocks.size > 3 %} grid--2-col-tablet grid--3-col-desktop{% elsif section.blocks.size > 3 %} grid--2-col-tablet{% else %} grid--3-col-tablet{% endif %}">
+        {%- for block in section.blocks -%}
+        <ul class="multicolumn-list__item grid__item{% if section.settings.column_alignment == 'center' %} center{% endif %}" {{ block.shopify_attributes }}>
+            <li><span class="multis-svg">{% render 'icon-allservice', icon: block.settings.icon1 %}</span></li>
+            <li>
+              <div class="multicolumn-card__info">
+                {%- if block.settings.title != blank -%}
+                  <div class="h4 inline-richtext">{{ block.settings.title }}</div>
+                {%- endif -%}
+                {%- if block.settings.demotext != blank -%}
+                  <p>{{ block.settings.demotext }}</p>
+                {%- endif -%}
+              </div>
+            </li>
+        </ul>
+        {%- endfor -%}
+      </div>
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "Text with icons",
+    "max_blocks": 3,
+    "disabled_on": {
+    "groups": [
+      "custom.overlay"
+    ]
+  },
+    "settings": [
+      {
+        "type": "inline_richtext",
+        "id": "title",
+        "default": "Service",
+        "label": "t:sections.multicolumn.settings.title.label"
+      },
+      {
+        "type": "select",
+        "id": "heading_size",
+        "options": [
+          {
+            "value": "h2",
+            "label": "t:sections.all.heading_size.options__1.label"
+          },
+          {
+            "value": "h1",
+            "label": "t:sections.all.heading_size.options__2.label"
+          },
+          {
+            "value": "h0",
+            "label": "t:sections.all.heading_size.options__3.label"
+          }
+        ],
+        "default": "h0",
+        "label": "t:sections.all.heading_size.label"
+      },
+      {
+        "type": "range",
+        "id": "iconwidth",
+        "min": 0,
+        "max": 65,
+        "step": 1,
+        "unit": "px",
+        "label": "Icon width",
+        "default": 65,
+        "info": "This option work only on desktop view"
+      },
+      {
+        "type": "select",
+        "id": "column_alignment",
+        "options": [
+          {
+            "value": "left",
+            "label": "t:sections.multicolumn.settings.column_alignment.options__1.label"
+          },
+          {
+            "value": "center",
+            "label": "t:sections.multicolumn.settings.column_alignment.options__2.label"
+          }
+        ],
+        "default": "center",
+        "label": "t:sections.multicolumn.settings.column_alignment.label"
+      },
+      {
+        "type": "header",
+        "content": "t:sections.all.padding.section_padding_heading"
+      },
+      {
+        "type": "range",
+        "id": "padding_top",
+        "min": 0,
+        "max": 100,
+        "step": 4,
+        "unit": "px",
+        "label": "t:sections.all.padding.padding_top",
+        "default": 60
+      },
+      {
+        "type": "range",
+        "id": "padding_bottom",
+        "min": 0,
+        "max": 100,
+        "step": 4,
+        "unit": "px",
+        "label": "t:sections.all.padding.padding_bottom",
+        "default": 0
+      }
+    ],
+    "blocks": [
+      {
+        "type": "image",
+        "name": "Text with icon",
+        "settings": [
+          {
+          "type": "select",
+          "id": "icon1",
+          "options": [
+              {
+                  "value": "none",
+                  "label": "t:sections.main-product.blocks.collapsible_tab.settings.icon.options__1.label"
+              },
+              {
+                  "value": "box",
+                  "label": "Box"
+              },
+              {
+                  "value": "shipping",
+                  "label": "Shipping"
+              },
+              {
+                  "value": "service",
+                  "label": "24/7 Service"
+              },
+              {
+                  "value": "offer",
+                  "label": "Offer"
+              },
+              {
+                  "value": "support",
+                  "label": "Support"
+              },
+              {
+                  "value": "delivery",
+                  "label": "Truck"
+              },
+              {
+                  "value": "moneyback",
+                  "label": "Dollar sign"
+              },
+              {
+                  "value": "gift",
+                  "label": "Gift"
+              },
+              {
+                  "value": "coloruser",
+                  "label": "Color user"
+              },
+              {
+                  "value": "colorpayment",
+                  "label": "Color payment"
+              },
+              {
+                  "value": "colorgift",
+                  "label": "Color gift"
+              },
+              {
+                  "value": "colorship",
+                  "label": "Color shipping"
+              }
+          ],
+          "default": "shipping",
+          "label": "t:sections.main-product.blocks.collapsible_tab.settings.icon.label"
+          },
+          {
+            "type": "inline_richtext",
+            "id": "title",
+            "default": "Heading",
+            "label": "t:sections.multicolumn.blocks.column.settings.title.label"
+          },
+          {
+            "type": "text",
+            "id": "demotext",
+            "default": "Add subheading here",
+            "label": "t:sections.multicolumn.blocks.column.settings.text.label"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Text with icons",
+        "blocks": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "image"
+          },
+          {
+            "type": "image"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

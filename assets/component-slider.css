@@ -245,11 +245,11 @@ slider-component.slider-component-full-width {
   height: 0.6rem;
 }
 .slider-button[disabled]{
-  cursor: not-allowed;
+  cursor: pointer;
 }
 .slider-button[disabled] .icon {
   color: rgba(var(--color-foreground), 0.3);
-  cursor: not-allowed;
+  cursor: pointer;
 }
 .slider-button--next .icon {
   transform: rotate(-90deg);

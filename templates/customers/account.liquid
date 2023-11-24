@@ -104,7 +104,8 @@
     <div>
       <h2>{{ 'customer.account.details' | t }}</h2>
 
-      {{ customer.default_address | format_address }}
+      {% render 'latori-tem2-account' %}
+{{ customer.default_address | format_address }}
 
       <a href="{{ routes.account_addresses_url }}" class="button button--primary">{{ 'customer.account.view_addresses' | t }} ({{ customer.addresses_count }})</a>
       <a href="{{ routes.account_logout_url }}" class="button button--primary">{{ 'customer.log_out' | t }}</a>

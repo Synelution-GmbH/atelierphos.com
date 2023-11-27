@@ -13,7 +13,7 @@
             "subheadingtext": "",
             "button_label": "Jetzt entdecken",
             "link": "shopify:\/\/collections",
-            "box_align": "middle-left",
+            "box_align": "bottom-left",
             "show_text_box": false,
             "text_alignment": "left",
             "image_overlay_opacity": 0,
@@ -46,6 +46,13 @@
     "5f6bc1e8-8c39-402d-96fc-ff06a142ee5c": {
       "type": "collection-list",
       "blocks": {
+        "759911da-db0a-4abc-8d19-f5cba7f40531": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "taschen",
+            "coll_desc": "Share information about your collection with customers."
+          }
+        },
         "template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-0": {
           "type": "featured_collection",
           "settings": {
@@ -69,16 +76,17 @@
         }
       },
       "block_order": [
+        "759911da-db0a-4abc-8d19-f5cba7f40531",
         "template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-0",
         "template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-1",
         "template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-2"
       ],
       "settings": {
-        "title": "Trendsetters Choice",
-        "heading_size": "h1",
-        "Horizontal_alignment": "left",
+        "title": "Topseller",
+        "heading_size": "h0",
+        "Horizontal_alignment": "center",
         "mobile_alignment": "center",
-        "subheading": "Stil definiert. Mode gestaltet.",
+        "subheading": "",
         "image_ratio": "adapt",
         "btntxt": "Jetzt Entdecken",
         "link": "shopify:\/\/collections",
@@ -88,37 +96,6 @@
         "wboverlayhcolor": "#ffffff",
         "wboverlayhbg": "#000000",
         "wboverlayhoutline": "#000000",
-        "padding_top": 60,
-        "padding_bottom": 0
-      }
-    },
-    "7164a463-55ea-46ef-a91a-8c3f3dd268ef": {
-      "type": "featured-collection",
-      "custom_css": [
-
-      ],
-      "settings": {
-        "title": "Vorgestellte Produkte",
-        "heading_size": "h0",
-        "collection": "winter-2023",
-        "products_to_show": 12,
-        "columns_desktop": 4,
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "portrait",
-        "display_product_type": false,
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "show_quick_view": true,
-        "show_add_to_cart": true,
-        "show_variants": true,
-        "picker_type": "button",
-        "show_colorswatch": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
         "padding_top": 60,
         "padding_bottom": 0
       }
@@ -552,7 +529,6 @@
   "order": [
     "1644650669e1107d39",
     "5f6bc1e8-8c39-402d-96fc-ff06a142ee5c",
-    "7164a463-55ea-46ef-a91a-8c3f3dd268ef",
     "85fcfb2f-a597-45d4-8c4f-14efb599b4b1",
     "d14f45a4-c834-455e-9de4-86ce3a78e8e2",
     "20b455bd-3aab-49e9-81c4-fce7b89f9e8c",

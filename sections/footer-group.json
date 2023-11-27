@@ -32,9 +32,9 @@
           "settings": {
             "heading": "Kontaktinformationen",
             "contsubtext": "",
-            "footer_address": "Musterstraße 00",
-            "footer_contact_no": "+00 000 000",
-            "footer_contact_id": "muster@mustermail.com"
+            "footer_address": "",
+            "footer_contact_no": "",
+            "footer_contact_id": "support@atelierphos.com"
           }
         }
       },

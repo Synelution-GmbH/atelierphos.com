@@ -38,17 +38,17 @@
         "logo": "shopify:\/\/shop_images\/logo_59c57751-ca15-4188-9dfe-ca43cfab1556.png",
         "logo_width": 162,
         "mobile_logo": "shopify:\/\/shop_images\/logo_ce0f9644-3163-42ee-abfd-e0e0b9ca3228.png",
-        "mobile_logo_width": 106,
-        "logo_position": "top-left",
+        "mobile_logo_width": 170,
+        "logo_position": "top-center",
         "show_acicon": "show_acicontext",
         "color_schememenu": "background-2",
-        "color_dropmenu": "background-1",
+        "color_dropmenu": "accent-1",
         "menu": "main-menu",
         "secmenu": "",
-        "sticky_header_type": "on-scroll-up",
+        "sticky_header_type": "reduce-logo-size",
         "margin_bottom": 0,
-        "padding_top": 18,
-        "padding_bottom": 18
+        "padding_top": 22,
+        "padding_bottom": 22
       }
     }
   },

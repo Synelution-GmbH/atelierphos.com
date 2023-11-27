@@ -201,55 +201,6 @@
         "padding_bottom": 0
       }
     },
-    "333040a3-0e01-4f2f-bc28-e6f0097f0c22": {
-      "type": "product-with-banner",
-      "blocks": {
-        "template--15816977678393__333040a3-0e01-4f2f-bc28-e6f0097f0c22-167646568216fe3a54-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ribbed-knit-beanie-black-front-655c7c7500a6e.jpg",
-            "image_height": "medium",
-            "storytitle": "Caps & Mützen",
-            "storysubtitle": "<p>Setzte Akzente mit unseren umweltfreundlichen Accessoires. Stilvolle Nachhaltigkeit, die beeindruckt.<\/p><p>Deine Must-haves!<\/p>",
-            "link": "shopify:\/\/collections\/beanies",
-            "product": "gerippte-strickmutze"
-          }
-        },
-        "template--15816977678393__333040a3-0e01-4f2f-bc28-e6f0097f0c22-167646568216fe3a54-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/embroidered-crew-socks-white-left-655c7d10e6cf5.jpg",
-            "image_height": "medium",
-            "storytitle": "Socken als Must-haves!",
-            "storysubtitle": "<p>Unsere Socken setzen Statement, die deine Persönlichkeit unterstreichen.<br\/>Tauche ein in die Welt der trendigen Socken, designed für deinen individuellen<br\/>Look.<\/p>",
-            "link": "shopify:\/\/collections\/socks",
-            "product": "bestickte-socken"
-          }
-        }
-      },
-      "block_order": [
-        "template--15816977678393__333040a3-0e01-4f2f-bc28-e6f0097f0c22-167646568216fe3a54-0",
-        "template--15816977678393__333040a3-0e01-4f2f-bc28-e6f0097f0c22-167646568216fe3a54-1"
-      ],
-      "custom_css": [
-        ".inline-richtext {text-transform: none;}",
-        "@media all and (min-width: 1265px) {.slider-button--prev {left: -50px; } .slider-button--next {right: -50px; }}"
-      ],
-      "settings": {
-        "image_ratio": "adapt",
-        "display_product_type": false,
-        "show_rating": false,
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_quick_view": true,
-        "show_add_to_cart": true,
-        "show_variants": true,
-        "picker_type": "button",
-        "show_colorswatch": true,
-        "padding_top": 60,
-        "padding_bottom": 0
-      }
-    },
     "cccab831-c74b-4f78-a7ee-b883cfbad050": {
       "type": "text-with-icons",
       "blocks": {
@@ -516,6 +467,7 @@
         "4c342141-1004-430a-9256-f13ed61625dc",
         "b4affba3-e868-45d7-89ae-bb3ae5fbb1ac"
       ],
+      "disabled": true,
       "custom_css": [
         "h1,h2,h3,p,span {text-transform: none;}"
       ],
@@ -532,7 +484,6 @@
     "85fcfb2f-a597-45d4-8c4f-14efb599b4b1",
     "d14f45a4-c834-455e-9de4-86ce3a78e8e2",
     "20b455bd-3aab-49e9-81c4-fce7b89f9e8c",
-    "333040a3-0e01-4f2f-bc28-e6f0097f0c22",
     "cccab831-c74b-4f78-a7ee-b883cfbad050",
     "1644902323b1323c6d",
     "c21be915-4563-486c-9739-6ce4de7240cb",

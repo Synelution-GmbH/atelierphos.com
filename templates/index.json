@@ -7,15 +7,15 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/Header_1920x640px_3_Farbe.jpg",
-            "heading": "ATELIER PHOS - YOUR LIFESTYLE BRAND",
+            "heading": "ATELIER PHOS",
             "heading_size": "large",
-            "subheading": "Hoodies, Oversized Shirts, unsere klassischen Tote Bags und vieles Mehr",
+            "subheading": "YOUR LIFESTYLE BRAND",
             "subheadingtext": "",
-            "button_label": "Jetzt entdecken",
+            "button_label": "SHOP NOW",
             "link": "shopify:\/\/collections",
-            "box_align": "bottom-left",
+            "box_align": "bottom-center",
             "show_text_box": false,
-            "text_alignment": "left",
+            "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "background-2",
             "text_alignment_mobile": "center"
@@ -188,13 +188,14 @@
         "template--15816977678393__20b455bd-3aab-49e9-81c4-fce7b89f9e8c-1676465566b3b48110-1",
         "template--15816977678393__20b455bd-3aab-49e9-81c4-fce7b89f9e8c-1676465566b3b48110-2"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "background-1",
         "image": "shopify:\/\/shop_images\/oversized-faded-t-shirt-faded-eucalyptus-front-6557591a97746.jpg",
         "image_width": "50%",
         "image_position": "imgpleft",
-        "imgalign": "imgalignmiddle",
-        "image_height": "adapt",
+        "imgalign": "imgalignbtm",
+        "image_height": "small",
         "Horizontal_alignment": "center",
         "mobile_alignment": "center",
         "padding_top": 60,
@@ -234,6 +235,7 @@
         "template--15816977678393__cccab831-c74b-4f78-a7ee-b883cfbad050-1676465716d81b1bfb-1",
         "template--15816977678393__cccab831-c74b-4f78-a7ee-b883cfbad050-1676465716d81b1bfb-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h0",
@@ -247,15 +249,15 @@
       "type": "lookbook",
       "disabled": true,
       "settings": {
-        "heading": "",
-        "heading_size": "h0",
-        "btntxt": "Jetzt Entdecken",
+        "heading": "THE NEW COLLECTION",
+        "heading_size": "h2",
+        "btntxt": "",
         "wblooktop_1": 23,
         "wblookleft_1": 51,
-        "product_1": "hut-aus-cord",
-        "wblooktop_2": 79,
-        "wblookleft_2": 46,
-        "product_2": "oversized-t-shirt-mit-verwaschenem-look",
+        "product_1": "unisex-hoodie",
+        "wblooktop_2": 100,
+        "wblookleft_2": 100,
+        "product_2": "oversized-faded-t-shirt",
         "padding_top": 60,
         "padding_bottom": 0
       }
@@ -316,6 +318,7 @@
         "template--15816977678393__c21be915-4563-486c-9739-6ce4de7240cb-1676465811144eff5a-3",
         "472489a0-3547-407e-96d3-f3bb26e38b4a"
       ],
+      "disabled": true,
       "custom_css": [
         ".dummysvg {display: none;}",
         ".original {height: 20px;}",

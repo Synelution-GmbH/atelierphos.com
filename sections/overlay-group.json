@@ -1,1 +1,121 @@
-{"type":"custom.overlay","name":"Overlay Group","sections":{"84ac2f7e-7788-4aaf-bc8b-54429f1d4b7a":{"type":"popup","blocks":{"a21764ee-4d1b-461e-9fb7-c44ff4f756da":{"type":"heading","settings":{"heading":"<p>Some heading<\/p>"}},"bb7cc531-cdf1-403c-a5ac-749f3f3b22d0":{"type":"subscribe_form","settings":{"placeholder_input":"enter your email","button_label":"Join","button_position":false,"description":"<p>Additional text for subscribe form.<\/p>"}},"a4678b0b-d560-489a-9ae3-2b365a609b0b":{"type":"social_links","settings":{"icon_color":"#040404","twitter":true,"facebook":true,"pinterest":true,"instagram":true,"tiktok":false,"tumblr":false,"snapchat":false,"youtube":false,"vimeo":false}}},"block_order":["a21764ee-4d1b-461e-9fb7-c44ff4f756da","bb7cc531-cdf1-403c-a5ac-749f3f3b22d0","a4678b0b-d560-489a-9ae3-2b365a609b0b"],"disabled":true,"settings":{"image_layout":"left","image_fit":"contain","limit_display":0,"limit_days":"30","position":"center","content_layout":"center","trigger_id":"","trigger_open":"delay","open_time_delay":1,"open_scroll_type":"%","open_scroll_position":"50","manual_trigger_selector":"","trigger_close":"none","close_time_delay":30,"close_scroll_type":"%","close_scroll_position":"50","width":1220,"open_animation":"popupOpenFade","close_animation":"popupExitFade","show_overlay":true,"mobile_disable":false,"disable_scrolling":true,"overlay_close":false,"esc_close":false,"f4_close":false,"show_on_homepage":true,"show_on_product_category":false,"show_on_all":false,"color_scheme":""}},"c9050c6e-373e-40fa-83c8-a4926e614f17":{"type":"promotional-popup","disabled":true,"settings":{"image_fit":"contain","image_position":"left","heading":"10% off your first order","text":"","show_button":true,"button_label":"Button label","button_action":"accept","button_link":"","position":"center","trigger_id":"","trigger_open":"delay","open_time_delay":1,"open_scroll_type":"%","open_scroll_position":"50","manual_trigger_selector":"","trigger_close":"none","close_time_delay":30,"close_scroll_type":"%","close_scroll_position":"50","show_close_button":false,"width":260,"open_animation":"popupOpenFade","close_animation":"popupExitFade","show_overlay":false,"mobile_disable":false,"disable_scrolling":false,"overlay_close":false,"esc_close":false,"f4_close":false,"show_on_homepage":true,"show_on_product_category":false,"show_on_all":false,"color_scheme":"accent-1"}}},"order":["84ac2f7e-7788-4aaf-bc8b-54429f1d4b7a","c9050c6e-373e-40fa-83c8-a4926e614f17"]}
+{
+  "type": "custom.overlay",
+  "name": "Overlay Group",
+  "sections": {
+    "84ac2f7e-7788-4aaf-bc8b-54429f1d4b7a": {
+      "type": "popup",
+      "blocks": {
+        "a21764ee-4d1b-461e-9fb7-c44ff4f756da": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Some heading<\/p>"
+          }
+        },
+        "bb7cc531-cdf1-403c-a5ac-749f3f3b22d0": {
+          "type": "subscribe_form",
+          "settings": {
+            "placeholder_input": "enter your email",
+            "button_label": "Join",
+            "button_position": false,
+            "description": "<p>Additional text for subscribe form.<\/p>"
+          }
+        },
+        "a4678b0b-d560-489a-9ae3-2b365a609b0b": {
+          "type": "social_links",
+          "settings": {
+            "icon_color": "#040404",
+            "twitter": false,
+            "facebook": false,
+            "pinterest": false,
+            "instagram": true,
+            "tiktok": false,
+            "tumblr": false,
+            "snapchat": false,
+            "youtube": false,
+            "vimeo": false
+          }
+        }
+      },
+      "block_order": [
+        "a21764ee-4d1b-461e-9fb7-c44ff4f756da",
+        "bb7cc531-cdf1-403c-a5ac-749f3f3b22d0",
+        "a4678b0b-d560-489a-9ae3-2b365a609b0b"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_layout": "left",
+        "image_fit": "contain",
+        "limit_display": 0,
+        "limit_days": "30",
+        "position": "center",
+        "content_layout": "center",
+        "trigger_id": "",
+        "trigger_open": "delay",
+        "open_time_delay": 1,
+        "open_scroll_type": "%",
+        "open_scroll_position": "50",
+        "manual_trigger_selector": "",
+        "trigger_close": "none",
+        "close_time_delay": 30,
+        "close_scroll_type": "%",
+        "close_scroll_position": "50",
+        "width": 1220,
+        "open_animation": "popupOpenFade",
+        "close_animation": "popupExitFade",
+        "show_overlay": true,
+        "mobile_disable": false,
+        "disable_scrolling": true,
+        "overlay_close": false,
+        "esc_close": false,
+        "f4_close": false,
+        "show_on_homepage": true,
+        "show_on_product_category": false,
+        "show_on_all": false,
+        "color_scheme": ""
+      }
+    },
+    "c9050c6e-373e-40fa-83c8-a4926e614f17": {
+      "type": "promotional-popup",
+      "disabled": true,
+      "settings": {
+        "image_fit": "contain",
+        "image_position": "left",
+        "heading": "10% off your first order",
+        "text": "",
+        "show_button": true,
+        "button_label": "Button label",
+        "button_action": "accept",
+        "button_link": "",
+        "position": "center",
+        "trigger_id": "",
+        "trigger_open": "delay",
+        "open_time_delay": 1,
+        "open_scroll_type": "%",
+        "open_scroll_position": "50",
+        "manual_trigger_selector": "",
+        "trigger_close": "none",
+        "close_time_delay": 30,
+        "close_scroll_type": "%",
+        "close_scroll_position": "50",
+        "show_close_button": false,
+        "width": 260,
+        "open_animation": "popupOpenFade",
+        "close_animation": "popupExitFade",
+        "show_overlay": false,
+        "mobile_disable": false,
+        "disable_scrolling": false,
+        "overlay_close": false,
+        "esc_close": false,
+        "f4_close": false,
+        "show_on_homepage": true,
+        "show_on_product_category": false,
+        "show_on_all": false,
+        "color_scheme": "accent-1"
+      }
+    }
+  },
+  "order": [
+    "84ac2f7e-7788-4aaf-bc8b-54429f1d4b7a",
+    "c9050c6e-373e-40fa-83c8-a4926e614f17"
+  ]
+}

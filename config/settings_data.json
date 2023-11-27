@@ -1,1 +1,307 @@
-{"current":{"colors_solid_button_labels":"#ffffff","accent_1_text_color":"#ffffff","colors_accent_1":"#121212","gradient_accent_1":"","accent_2_text_color":"#000000","colors_accent_2":"#ffffff","gradient_accent_2":"","accent_3_text_color":"#ffffff","colors_accent_3":"#000000","gradient_accent_3":"","colors_text":"#121212","colors_outline_button_labels":"#000000","colors_background_1":"#ffffff","gradient_background_1":"","colors_background_2":"#F3F3F3","gradient_background_2":"","wbmainclr":"#333333","type_header_font":"poppins_n5","type_body_font":"poppins_n4","body_scale":100,"page_width":1370,"spacing_grid_horizontal":20,"spacing_grid_vertical":20,"buttons_border_thickness":1,"buttons_border_opacity":100,"buttons_radius":0,"buttons_shadow_opacity":0,"buttons_shadow_horizontal_offset":0,"buttons_shadow_vertical_offset":0,"buttons_shadow_blur":0,"variant_pills_border_thickness":1,"variant_pills_border_opacity":10,"variant_pills_radius":0,"variant_pills_shadow_opacity":0,"variant_pills_shadow_horizontal_offset":0,"variant_pills_shadow_vertical_offset":0,"variant_pills_shadow_blur":0,"inputs_border_thickness":1,"inputs_border_opacity":10,"inputs_radius":0,"inputs_shadow_opacity":0,"inputs_shadow_horizontal_offset":0,"inputs_shadow_vertical_offset":0,"inputs_shadow_blur":0,"card_style":"card","card_image_padding":0,"card_text_alignment":"left","card_color_scheme":"background-2","card_border_thickness":0,"card_border_opacity":0,"card_corner_radius":0,"card_shadow_opacity":0,"card_shadow_horizontal_offset":0,"card_shadow_vertical_offset":-2,"card_shadow_blur":0,"text_boxes_border_thickness":0,"media_border_thickness":0,"media_border_opacity":5,"media_radius":0,"media_shadow_opacity":0,"media_shadow_horizontal_offset":0,"media_shadow_vertical_offset":0,"media_shadow_blur":0,"popup_border_thickness":1,"popup_border_opacity":10,"popup_corner_radius":0,"popup_shadow_opacity":0,"popup_shadow_horizontal_offset":0,"popup_shadow_vertical_offset":0,"popup_shadow_blur":0,"drawer_border_thickness":1,"drawer_shadow_opacity":0,"drawer_shadow_horizontal_offset":0,"drawer_shadow_vertical_offset":0,"drawer_shadow_blur":0,"badge_corner_radius":0,"sale_badge_color_scheme":"accent-1","sold_out_badge_color_scheme":"background-1","social_twitter_link":"#","social_facebook_link":"#","social_pinterest_link":"#","social_instagram_link":"#","social_tumblr_link":"","predictive_search_enabled":true,"predictive_search_show_price":true,"favicon":"shopify:\/\/shop_images\/Atelier_Phos_Monogramm.jpg","currency_code_enabled":true,"cart_type":"drawer","wb_carticon":"wb_shopcart","wb_cartnumber":"wb_shopqtytotal","show_vendor":false,"show_cart_note":false,"wbenable_ship":true,"wbmin_order":"USD:60,EUR:60,CHF:60","wbprogscolor":"#428e6c","wbuphead":"Auch beliebt","upsellcollection":"winter-2023","upsell_to_show":2,"cart_drawer_collection":"","show_cartpayment":true,"upsellp":true,"upsellpempty":true,"checkout_logo_image":"shopify:\/\/shop_images\/logo.png","checkout_accent_color":"#121212","checkout_button_color":"#121212","logo_width":90,"collection_card_style":"standard","collection_card_image_padding":0,"collection_card_text_alignment":"left","collection_card_color_scheme":"background-2","collection_card_border_thickness":0,"collection_card_border_opacity":10,"collection_card_corner_radius":0,"collection_card_shadow_opacity":0,"collection_card_shadow_horizontal_offset":0,"collection_card_shadow_vertical_offset":4,"collection_card_shadow_blur":5,"blog_card_style":"standard","blog_card_image_padding":0,"blog_card_text_alignment":"left","blog_card_color_scheme":"background-2","blog_card_border_thickness":0,"blog_card_border_opacity":10,"blog_card_corner_radius":0,"blog_card_shadow_opacity":0,"blog_card_shadow_horizontal_offset":0,"blog_card_shadow_vertical_offset":4,"blog_card_shadow_blur":5,"accent-2-text-color":"#428e6c","wboverlayhcolor":"#121212","wboverlayhbg":"#FFFFFF","wboverlayhoutline":"#FFFFFF","type_header_base_size":40,"type_base_size":14,"badge_toggle":true,"new_products_period":"2000","badge_position":"top left","colorSwatch":"","colorImg":"<p> heather-black.jpg, black.png, heather-gray.gif, white.png, red.png<\/p>","type_base_font":"Google+Poppins","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"announcement-bar-0":{"type":"announcement","settings":{}}},"block_order":["announcement-bar-0"],"settings":{}},"header":{"type":"header","settings":{"logo_width":90}},"footer":{"type":"footer","blocks":{"footer-0":{"type":"link_list","settings":{}},"footer-1":{"type":"link_list","settings":{"heading":"Info"}},"footer-2":{"type":"text","settings":{"heading":"Our mission"}}},"block_order":["footer-0","footer-1","footer-2"],"settings":{"wbfoot_bgcolor":"#f5f5f5","wbfoot_color":"#121212","wbfoot_hcolor":"#555555","enable_country_selector":false,"enable_language_selector":false,"margin_top":48}},"main-password-header":{"type":"main-password-header","settings":{}},"main-password-footer":{"type":"main-password-footer","settings":{}},"age-verification":{"type":"age-verification","settings":{"enable_age_verification":false,"blue_image":40,"heading":"Confirm your age","question":"<p>Are you 18 years old or older?<\/p>","decline_button":"No I'm not","approve_button":"Yes I am","declined_heading":"Come back when you're older","declined_text":"<p>Sorry, the content of this store can't be seen by a younger audience. Come back when you're older.<\/p>","return_button":"Oops, I entered incorrectly","color_scheme":"accent-1"}}},"content_for_index":[]},"presets":{"Default":{"sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"announcement-bar-0":{"type":"announcement","settings":{}}},"block_order":["announcement-bar-0"],"settings":{}},"header":{"type":"header","settings":{"logo_width":90}},"footer":{"type":"footer","blocks":{"footer-0":{"type":"link_list","settings":{}},"footer-1":{"type":"link_list","settings":{"heading":"Info"}},"footer-2":{"type":"text","settings":{"heading":"Our mission"}}},"block_order":["footer-0","footer-1","footer-2"],"settings":{"wbfoot_bgcolor":"#f5f5f5","wbfoot_color":"#121212","wbfoot_hcolor":"#555555","enable_country_selector":false,"enable_language_selector":false,"margin_top":48}},"main-password-header":{"type":"main-password-header","settings":{}},"main-password-footer":{"type":"main-password-footer","settings":{}}}}},"platform_customizations":{"custom_css":[]}}
+{
+  "current": {
+    "colors_solid_button_labels": "#ffffff",
+    "accent_1_text_color": "#ffffff",
+    "colors_accent_1": "#121212",
+    "gradient_accent_1": "",
+    "accent_2_text_color": "#000000",
+    "colors_accent_2": "#ffffff",
+    "gradient_accent_2": "",
+    "accent_3_text_color": "#ffffff",
+    "colors_accent_3": "#000000",
+    "gradient_accent_3": "",
+    "colors_text": "#121212",
+    "colors_outline_button_labels": "#000000",
+    "colors_background_1": "#ffffff",
+    "gradient_background_1": "",
+    "colors_background_2": "#F3F3F3",
+    "gradient_background_2": "",
+    "wbmainclr": "#333333",
+    "type_header_font": "poppins_n5",
+    "type_body_font": "poppins_n4",
+    "body_scale": 100,
+    "page_width": 1370,
+    "spacing_grid_horizontal": 20,
+    "spacing_grid_vertical": 20,
+    "buttons_border_thickness": 1,
+    "buttons_border_opacity": 100,
+    "buttons_radius": 0,
+    "buttons_shadow_opacity": 0,
+    "buttons_shadow_horizontal_offset": 0,
+    "buttons_shadow_vertical_offset": 0,
+    "buttons_shadow_blur": 0,
+    "variant_pills_border_thickness": 1,
+    "variant_pills_border_opacity": 10,
+    "variant_pills_radius": 0,
+    "variant_pills_shadow_opacity": 0,
+    "variant_pills_shadow_horizontal_offset": 0,
+    "variant_pills_shadow_vertical_offset": 0,
+    "variant_pills_shadow_blur": 0,
+    "inputs_border_thickness": 1,
+    "inputs_border_opacity": 10,
+    "inputs_radius": 0,
+    "inputs_shadow_opacity": 0,
+    "inputs_shadow_horizontal_offset": 0,
+    "inputs_shadow_vertical_offset": 0,
+    "inputs_shadow_blur": 0,
+    "card_style": "card",
+    "card_image_padding": 0,
+    "card_text_alignment": "left",
+    "card_color_scheme": "background-2",
+    "card_border_thickness": 0,
+    "card_border_opacity": 0,
+    "card_corner_radius": 0,
+    "card_shadow_opacity": 0,
+    "card_shadow_horizontal_offset": 0,
+    "card_shadow_vertical_offset": -2,
+    "card_shadow_blur": 0,
+    "text_boxes_border_thickness": 0,
+    "media_border_thickness": 0,
+    "media_border_opacity": 5,
+    "media_radius": 0,
+    "media_shadow_opacity": 0,
+    "media_shadow_horizontal_offset": 0,
+    "media_shadow_vertical_offset": 0,
+    "media_shadow_blur": 0,
+    "popup_border_thickness": 1,
+    "popup_border_opacity": 10,
+    "popup_corner_radius": 0,
+    "popup_shadow_opacity": 0,
+    "popup_shadow_horizontal_offset": 0,
+    "popup_shadow_vertical_offset": 0,
+    "popup_shadow_blur": 0,
+    "drawer_border_thickness": 1,
+    "drawer_shadow_opacity": 0,
+    "drawer_shadow_horizontal_offset": 0,
+    "drawer_shadow_vertical_offset": 0,
+    "drawer_shadow_blur": 0,
+    "badge_corner_radius": 0,
+    "sale_badge_color_scheme": "accent-1",
+    "sold_out_badge_color_scheme": "background-1",
+    "social_twitter_link": "#",
+    "social_facebook_link": "#",
+    "social_pinterest_link": "#",
+    "social_instagram_link": "#atelier.phos",
+    "social_tumblr_link": "",
+    "predictive_search_enabled": true,
+    "predictive_search_show_price": true,
+    "favicon": "shopify:\/\/shop_images\/Atelier_Phos_Monogramm.jpg",
+    "currency_code_enabled": true,
+    "cart_type": "drawer",
+    "wb_carticon": "wb_shopbag",
+    "wb_cartnumber": "wb_shopqtytotal",
+    "show_vendor": false,
+    "show_cart_note": false,
+    "wbenable_ship": true,
+    "wbmin_order": "USD:60,EUR:60,CHF:60",
+    "wbprogscolor": "#428e6c",
+    "wbuphead": "Auch beliebt",
+    "upsellcollection": "winter-2023",
+    "upsell_to_show": 2,
+    "cart_drawer_collection": "",
+    "show_cartpayment": true,
+    "upsellp": true,
+    "upsellpempty": true,
+    "checkout_logo_image": "shopify:\/\/shop_images\/logo.png",
+    "checkout_accent_color": "#121212",
+    "checkout_button_color": "#121212",
+    "logo_width": 90,
+    "collection_card_style": "standard",
+    "collection_card_image_padding": 0,
+    "collection_card_text_alignment": "left",
+    "collection_card_color_scheme": "background-2",
+    "collection_card_border_thickness": 0,
+    "collection_card_border_opacity": 10,
+    "collection_card_corner_radius": 0,
+    "collection_card_shadow_opacity": 0,
+    "collection_card_shadow_horizontal_offset": 0,
+    "collection_card_shadow_vertical_offset": 4,
+    "collection_card_shadow_blur": 5,
+    "blog_card_style": "standard",
+    "blog_card_image_padding": 0,
+    "blog_card_text_alignment": "left",
+    "blog_card_color_scheme": "background-2",
+    "blog_card_border_thickness": 0,
+    "blog_card_border_opacity": 10,
+    "blog_card_corner_radius": 0,
+    "blog_card_shadow_opacity": 0,
+    "blog_card_shadow_horizontal_offset": 0,
+    "blog_card_shadow_vertical_offset": 4,
+    "blog_card_shadow_blur": 5,
+    "accent-2-text-color": "#428e6c",
+    "wboverlayhcolor": "#121212",
+    "wboverlayhbg": "#FFFFFF",
+    "wboverlayhoutline": "#FFFFFF",
+    "type_header_base_size": 40,
+    "type_base_size": 14,
+    "badge_toggle": true,
+    "new_products_period": "2000",
+    "badge_position": "top left",
+    "colorSwatch": "",
+    "colorImg": "<p> heather-black.jpg, black.png, heather-gray.gif, white.png, red.png<\/p>",
+    "type_base_font": "Google+Poppins",
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "blocks": {
+          "announcement-bar-0": {
+            "type": "announcement",
+            "settings": {
+            }
+          }
+        },
+        "block_order": [
+          "announcement-bar-0"
+        ],
+        "settings": {
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "logo_width": 90
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-0": {
+            "type": "link_list",
+            "settings": {
+            }
+          },
+          "footer-1": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Info"
+            }
+          },
+          "footer-2": {
+            "type": "text",
+            "settings": {
+              "heading": "Our mission"
+            }
+          }
+        },
+        "block_order": [
+          "footer-0",
+          "footer-1",
+          "footer-2"
+        ],
+        "settings": {
+          "wbfoot_bgcolor": "#f5f5f5",
+          "wbfoot_color": "#121212",
+          "wbfoot_hcolor": "#555555",
+          "enable_country_selector": false,
+          "enable_language_selector": false,
+          "margin_top": 48
+        }
+      },
+      "main-password-header": {
+        "type": "main-password-header",
+        "settings": {
+        }
+      },
+      "main-password-footer": {
+        "type": "main-password-footer",
+        "settings": {
+        }
+      },
+      "age-verification": {
+        "type": "age-verification",
+        "settings": {
+          "enable_age_verification": false,
+          "blue_image": 40,
+          "heading": "Confirm your age",
+          "question": "<p>Are you 18 years old or older?<\/p>",
+          "decline_button": "No I'm not",
+          "approve_button": "Yes I am",
+          "declined_heading": "Come back when you're older",
+          "declined_text": "<p>Sorry, the content of this store can't be seen by a younger audience. Come back when you're older.<\/p>",
+          "return_button": "Oops, I entered incorrectly",
+          "color_scheme": "accent-1"
+        }
+      }
+    },
+    "content_for_index": [
+
+    ]
+  },
+  "presets": {
+    "Default": {
+      "sections": {
+        "announcement-bar": {
+          "type": "announcement-bar",
+          "blocks": {
+            "announcement-bar-0": {
+              "type": "announcement",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "announcement-bar-0"
+          ],
+          "settings": {
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "logo_width": 90
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "link_list",
+              "settings": {
+              }
+            },
+            "footer-1": {
+              "type": "link_list",
+              "settings": {
+                "heading": "Info"
+              }
+            },
+            "footer-2": {
+              "type": "text",
+              "settings": {
+                "heading": "Our mission"
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
+          "settings": {
+            "wbfoot_bgcolor": "#f5f5f5",
+            "wbfoot_color": "#121212",
+            "wbfoot_hcolor": "#555555",
+            "enable_country_selector": false,
+            "enable_language_selector": false,
+            "margin_top": 48
+          }
+        },
+        "main-password-header": {
+          "type": "main-password-header",
+          "settings": {
+          }
+        },
+        "main-password-footer": {
+          "type": "main-password-footer",
+          "settings": {
+          }
+        }
+      }
+    }
+  },
+  "platform_customizations": {
+    "custom_css": [
+
+    ]
+  }
+}

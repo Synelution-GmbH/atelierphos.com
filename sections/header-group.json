@@ -42,7 +42,7 @@
         "logo_position": "top-center",
         "show_acicon": "show_acicontext",
         "color_schememenu": "background-2",
-        "color_dropmenu": "accent-1",
+        "color_dropmenu": "background-2",
         "menu": "main-menu",
         "secmenu": "",
         "sticky_header_type": "reduce-logo-size",

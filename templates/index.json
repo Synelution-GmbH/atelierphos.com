@@ -479,6 +479,39 @@
         "padding_top": 80,
         "padding_bottom": 20
       }
+    },
+    "4ab2ad55-d32c-4fc1-bfd8-0692d9cdfd45": {
+      "type": "collection-list-newest",
+      "blocks": {
+        "template--16959450644697__4ab2ad55-d32c-4fc1-bfd8-0692d9cdfd45-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "coll_desc": "Share information about your collection with customers."
+          }
+        }
+      },
+      "block_order": [
+        "template--16959450644697__4ab2ad55-d32c-4fc1-bfd8-0692d9cdfd45-featured_collection-1"
+      ],
+      "settings": {
+        "title": "Topseller",
+        "heading_size": "h1",
+        "Horizontal_alignment": "left",
+        "mobile_alignment": "left",
+        "subheading": "",
+        "image_ratio": "square",
+        "btntxt": "Jetzt Entdecken",
+        "link": "shopify:\/\/collections",
+        "wboverlaycolor": "#000000",
+        "wboverlaybg": "#ffffff",
+        "wboverlayoutline": "#ffffff",
+        "wboverlayhcolor": "#ffffff",
+        "wboverlayhbg": "#000000",
+        "wboverlayhoutline": "#000000",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
@@ -492,6 +525,7 @@
     "c21be915-4563-486c-9739-6ce4de7240cb",
     "1644902876a8ba65d3",
     "16449031867ba3e5f6",
-    "99552a57-3946-4dd5-b0ec-81085d625dc8"
+    "99552a57-3946-4dd5-b0ec-81085d625dc8",
+    "4ab2ad55-d32c-4fc1-bfd8-0692d9cdfd45"
   ]
 }

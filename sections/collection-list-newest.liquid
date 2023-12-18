@@ -71,12 +71,13 @@
         <ul class="grid collection-list--{{ section.blocks.size }}-items slider" id="Slider-{{ section.id }}" role="list">
           {% assign collections = collections | sort: 'published_at' %}
           {%- for collection in collections -%}
-            ello
-            {% comment %} <li id="Slide-{{ section.id }}-{{ forloop.index }}" class="grid__item slider__slide{% if block.settings.collection.featured_image == nil %} collection-list__item--no-media{% endif %}" {{ block.shopify_attributes }}>
-              {%- assign placeholder_image_index = forloop.index0 | modulo: 4 | plus: 1 -%}
-              {%- assign placeholder_image = 'collection-apparel-' | append: placeholder_image_index -%}
-              {% render 'card-collectionhome', card_collection: block.settings.collection , media_aspect_ratio: section.settings.image_ratio, coll_desc: block.settings.coll_desc, placeholder_image: placeholder_image %}
-            </li> {% endcomment %}
+            {% unless collection.products_count  == 0 %}
+              <li id="Slide-{{ section.id }}-{{ forloop.index }}" class="grid__item slider__slide{% if collection.featured_image == nil %} collection-list__item--no-media{% endif %}" {{ block.shopify_attributes }}>
+                {%- assign placeholder_image_index = forloop.index0 | modulo: 4 | plus: 1 -%}
+                {%- assign placeholder_image = 'collection-apparel-' | append: placeholder_image_index -%}
+                {% render 'card-collectionhome', card_collection: collection , media_aspect_ratio: section.settings.image_ratio, coll_desc: collection.description, placeholder_image: placeholder_image %}
+              </li>
+            {%- endunless -%}
           {%- endfor -%}
         </ul>
           <div class="wbhomesbtn no-js-hidden">

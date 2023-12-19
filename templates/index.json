@@ -82,45 +82,12 @@
         "template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-2"
       ],
       "settings": {
-        "title": "Topseller",
+        "title": "New Collections",
         "heading_size": "h0",
         "Horizontal_alignment": "center",
         "mobile_alignment": "center",
         "subheading": "",
         "image_ratio": "adapt",
-        "btntxt": "Jetzt Entdecken",
-        "link": "shopify:\/\/collections",
-        "wboverlaycolor": "#000000",
-        "wboverlaybg": "#ffffff",
-        "wboverlayoutline": "#ffffff",
-        "wboverlayhcolor": "#ffffff",
-        "wboverlayhbg": "#000000",
-        "wboverlayhoutline": "#000000",
-        "padding_top": 60,
-        "padding_bottom": 0
-      }
-    },
-    "4ab2ad55-d32c-4fc1-bfd8-0692d9cdfd45": {
-      "type": "collection-list-newest",
-      "blocks": {
-        "template--16959450644697__4ab2ad55-d32c-4fc1-bfd8-0692d9cdfd45-featured_collection-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "coll_desc": "Share information about your collection with customers."
-          }
-        }
-      },
-      "block_order": [
-        "template--16959450644697__4ab2ad55-d32c-4fc1-bfd8-0692d9cdfd45-featured_collection-1"
-      ],
-      "settings": {
-        "title": "Topseller",
-        "heading_size": "h1",
-        "Horizontal_alignment": "center",
-        "mobile_alignment": "center",
-        "subheading": "",
-        "image_ratio": "square",
         "btntxt": "Jetzt Entdecken",
         "link": "shopify:\/\/collections",
         "wboverlaycolor": "#000000",
@@ -517,7 +484,6 @@
   "order": [
     "1644650669e1107d39",
     "5f6bc1e8-8c39-402d-96fc-ff06a142ee5c",
-    "4ab2ad55-d32c-4fc1-bfd8-0692d9cdfd45",
     "85fcfb2f-a597-45d4-8c4f-14efb599b4b1",
     "d14f45a4-c834-455e-9de4-86ce3a78e8e2",
     "20b455bd-3aab-49e9-81c4-fce7b89f9e8c",

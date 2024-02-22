@@ -32,9 +32,9 @@
           "settings": {
             "max_stock": 66,
             "limited_stock_cut_off": 10,
-            "limited_stock_message": "Nur noch {stock_number} Stück übrig",
-            "instock_message": "Auf Lager ({stock_number} Stück), Bereit für den Versand",
-            "continue_selling_message": "Bald wieder erhältlich",
+            "limited_stock_message": "Only {stock_number} pieces left",
+            "instock_message": "In Stock ({stock_number} Pieces), Ready for Shipping",
+            "continue_selling_message": "Available again soon",
             "limited_stock_color": "#ff0000",
             "in_stock_color": "#008a00",
             "continue_selling_color": "#ff0000"

@@ -100,7 +100,7 @@
     "upsell_to_show": 3,
     "cart_drawer_collection": "accessoires",
     "show_cartpayment": true,
-    "upsellp": false,
+    "upsellp": true,
     "upsellpempty": false,
     "checkout_logo_image": "shopify:\/\/shop_images\/logo.png",
     "checkout_accent_color": "#121212",

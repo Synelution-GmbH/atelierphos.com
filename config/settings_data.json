@@ -96,7 +96,7 @@
     "wbmin_order": "USD:60,EUR:60,CHF:60",
     "wbprogscolor": "#428e6c",
     "wbuphead": "Also popular",
-    "upsellcollection": "alle-produkte",
+    "upsellcollection": "all-products",
     "upsell_to_show": 3,
     "cart_drawer_collection": "accessoires",
     "show_cartpayment": true,

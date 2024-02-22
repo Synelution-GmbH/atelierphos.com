@@ -428,7 +428,7 @@
       "settings": {
         "title": "THE NEW COLLECTION",
         "heading_size": "h2",
-        "collection": "alle-produkte",
+        "collection": "all-products",
         "products_to_show": 8,
         "columns_desktop": 4,
         "enable_desktop_slider": false,

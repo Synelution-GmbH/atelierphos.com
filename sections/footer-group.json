@@ -23,14 +23,14 @@
         "be508a69-eab2-4bd8-b66c-ffddb45e99da": {
           "type": "link_list",
           "settings": {
-            "heading": "Informationen",
+            "heading": "Information",
             "menu": "legale-links"
           }
         },
         "8c41e77e-2d98-426a-ae31-1508c541356b": {
           "type": "textarea",
           "settings": {
-            "heading": "Kontaktinformationen",
+            "heading": "Contact",
             "contsubtext": "",
             "footer_address": "",
             "footer_contact_no": "",

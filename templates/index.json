@@ -46,27 +46,6 @@
     "5f6bc1e8-8c39-402d-96fc-ff06a142ee5c": {
       "type": "collection-list",
       "blocks": {
-        "759911da-db0a-4abc-8d19-f5cba7f40531": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "taschen",
-            "coll_desc": "Share information about your collection with customers."
-          }
-        },
-        "featured_collection_hce9bj": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "coll_desc": "Share information about your collection with customers."
-          }
-        },
-        "featured_collection_xijg3U": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "coll_desc": "Share information about your collection with customers."
-          }
-        },
         "template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-0": {
           "type": "featured_collection",
           "settings": {
@@ -90,9 +69,6 @@
         }
       },
       "block_order": [
-        "759911da-db0a-4abc-8d19-f5cba7f40531",
-        "featured_collection_hce9bj",
-        "featured_collection_xijg3U",
         "template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-0",
         "template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-1",
         "template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-2"

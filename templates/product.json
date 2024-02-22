@@ -211,7 +211,7 @@
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
-        "heading": "Ähnliche Produkte",
+        "heading": "Similar Products",
         "products_to_show": 6,
         "columns_desktop": 3,
         "show__slider": true,

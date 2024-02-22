@@ -423,40 +423,30 @@
         "padding_bottom": 20
       }
     },
-    "top_product_iKgapK": {
-      "type": "top-product",
-      "blocks": {
-        "collection_EaNBQh": {
-          "type": "collection",
-          "settings": {
-            "cat_name": "",
-            "collection": "alle-produkte",
-            "products_to_show": 8,
-            "show_view_all": true,
-            "view_all_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "collection_EaNBQh"
-      ],
+    "featured_collection_JDxNYQ": {
+      "type": "featured-collection",
       "settings": {
-        "m_title": "THE NEW COLLECTION",
+        "title": "THE NEW COLLECTION",
         "heading_size": "h2",
-        "rows": 2,
+        "collection": "alle-produkte",
+        "products_to_show": 8,
         "columns_desktop": 4,
-        "full_width": false,
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
         "image_ratio": "adapt",
         "display_product_type": false,
-        "show_rating": false,
         "show_secondary_image": true,
         "show_vendor": false,
+        "show_rating": false,
         "show_quick_view": true,
-        "show_add_to_cart": true,
+        "show_add_to_cart": false,
         "show_variants": true,
         "picker_type": "button",
         "show_colorswatch": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
         "columns_mobile": "2",
+        "swipe_on_mobile": false,
         "padding_top": 60,
         "padding_bottom": 0
       }
@@ -522,7 +512,7 @@
     "1644902876a8ba65d3",
     "16449031867ba3e5f6",
     "99552a57-3946-4dd5-b0ec-81085d625dc8",
-    "top_product_iKgapK",
+    "featured_collection_JDxNYQ",
     "5f6bc1e8-8c39-402d-96fc-ff06a142ee5c"
   ]
 }

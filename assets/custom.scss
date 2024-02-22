@@ -10,3 +10,40 @@
     width: 100%;
   }
 }
+
+.card-wrapper.wbproduct-container {
+  .media {
+    // padding-top: 125%;
+    background-color: #fbf9f7;
+    // border: 1px solid #ebebeb;
+    // position: relative;
+    // img {
+    //   position: absolute;
+    //   top: 0;
+    //   left: 0;
+    //   width: calc(100%);
+    //   height: 100%;
+    //   object-fit: contain;
+    // }
+  }
+
+  .color-background-2 {
+    background-color: unset !important;
+  }
+
+  .product-title {
+    font-size: 11px;
+    padding-bottom: 8px;
+  }
+
+  .price-item {
+    font-size: 16px;
+    font-weight: 400;
+  }
+
+  &:hover {
+    .product-title {
+      text-decoration: underline;
+    }
+  }
+}

@@ -53,7 +53,7 @@
                                   {% if card_product.featured_media.width >= 1646 %}{{ card_product.featured_media | image_url: width: 1646 }} 1646w,{% endif %}
                                   {% if card_product.featured_media.width >= 1946 %}{{ card_product.featured_media | image_url: width: 1946 }} 1946w,{% endif %}
                                   {{ card_product.featured_media | image_url }} {{ card_product.featured_media.width }}w"
-                            src="{{ card_product.featured_media | image_url: width: 370 }} 370w"
+                            src="{{ card_product.featured_media | image_url: width: 360, height: 450 }} 370w"
                             sizes="(min-width: {{ settings.page_width }}px) {{ settings.page_width | minus: 130 | divided_by: 4 }}px, (min-width: 992px) calc((100vw - 130px) / 4), (min-width: 768px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
                             loading="lazy"
                             width="{{ card_product.featured_media.width }}"

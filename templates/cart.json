@@ -33,9 +33,9 @@
     "cart-ship-return": {
       "type": "main-ship-return",
       "settings": {
-        "wbshiphead": "Versandinformationen",
+        "wbshiphead": "Shipping Information",
         "wbship": "Your anticipation is important to us! We offer fast shipping for your Atelier Phos order. Order now and look forward to speedy delivery so that you have your streetwear favorites in your hands in no time.",
-        "wbrtnhead": "Rückgaberecht",
+        "wbrtnhead": "Return Policy",
         "wbrtn": "Our streetwear should meet your expectations 100%. If you are still not satisfied, we offer an uncomplicated return policy. Simply contact us within 14 days of receipt. We stand behind our quality and want you to be completely satisfied with your purchase from Atelier Phos.",
         "padding_top": 20,
         "padding_bottom": 0

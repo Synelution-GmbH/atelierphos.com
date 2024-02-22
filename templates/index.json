@@ -440,7 +440,7 @@
         "show_rating": false,
         "show_quick_view": true,
         "show_add_to_cart": false,
-        "show_variants": true,
+        "show_variants": false,
         "picker_type": "button",
         "show_colorswatch": true,
         "show_view_all": true,

@@ -4,8 +4,8 @@
     "theme_name": "Viola",
     "theme_version": "1.0.5",
     "theme_author": "Webibazaar",
-    "theme_documentation_url": "https://www.webibazaar.com/shopify/viola-doc",
-    "theme_support_url": "https://support.webibazaar.com/shopify"
+    "theme_documentation_url": "https:\/\/www.webibazaar.com\/shopify\/viola-doc",
+    "theme_support_url": "https:\/\/support.webibazaar.com\/shopify"
   },
   {
     "name": "t:settings_schema.colors.name",
@@ -813,7 +813,10 @@
   {
     "name": "t:settings_schema.popups.name",
     "settings": [
-      { "type": "paragraph", "content": "t:settings_schema.popups.paragraph" },
+      {
+        "type": "paragraph",
+        "content": "t:settings_schema.popups.paragraph"
+      },
       {
         "type": "header",
         "content": "t:settings_schema.global.settings.header__border.content"
@@ -1163,13 +1166,22 @@
         "default": "drawer",
         "label": "t:settings_schema.cart.settings.cart_type.label"
       },
-      { "type": "header", "content": "Header settings" },
+      {
+        "type": "header",
+        "content": "Header settings"
+      },
       {
         "type": "select",
         "id": "wb_carticon",
         "options": [
-          { "value": "wb_shopcart", "label": "Shopping cart" },
-          { "value": "wb_shopbag", "label": "Shopping bag" }
+          {
+            "value": "wb_shopcart",
+            "label": "Shopping cart"
+          },
+          {
+            "value": "wb_shopbag",
+            "label": "Shopping bag"
+          }
         ],
         "default": "wb_shopcart",
         "label": "Cart icon"
@@ -1178,9 +1190,18 @@
         "type": "select",
         "id": "wb_cartnumber",
         "options": [
-          { "value": "wb_shoptotal", "label": "Cart total" },
-          { "value": "wb_shopqty", "label": "Quantity" },
-          { "value": "wb_shopqtytotal", "label": "Quantity and cart total" }
+          {
+            "value": "wb_shoptotal",
+            "label": "Cart total"
+          },
+          {
+            "value": "wb_shopqty",
+            "label": "Quantity"
+          },
+          {
+            "value": "wb_shopqtytotal",
+            "label": "Quantity and cart total"
+          }
         ],
         "default": "wb_shopqtytotal",
         "label": "Cart number"
@@ -1206,7 +1227,7 @@
         "id": "wbenable_ship",
         "label": "Show free shipping minimum amount",
         "default": false,
-        "info": "Make sure that you have properly configured your [shipping rates](/admin/settings/shipping)."
+        "info": "Make sure that you have properly configured your [shipping rates](\/admin\/settings\/shipping)."
       },
       {
         "type": "text",
@@ -1253,7 +1274,10 @@
         "default": true,
         "info": "Visible when cart type 'Drawer' is selected"
       },
-      { "type": "header", "content": "Cart upsell products" },
+      {
+        "type": "header",
+        "content": "Cart upsell products"
+      },
       {
         "type": "checkbox",
         "id": "upsellp",

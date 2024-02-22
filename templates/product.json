@@ -71,7 +71,7 @@
         "description": {
           "type": "description",
           "settings": {
-            "pdesc_title": "Produktbeschreibung"
+            "pdesc_title": "Product description"
           }
         },
         "27036c39-0467-41e3-84cb-e6b47122d064": {
@@ -170,8 +170,8 @@
           "type": "image",
           "settings": {
             "icon1": "shipping",
-            "title": "Gratis Lieferung",
-            "demotext": "Ab einem Bestellwert von 60 CHF"
+            "title": "Free Shipping",
+            "demotext": "For orders over 60 CHF"
           }
         },
         "template--15816977940537__bf97d278-f9a2-4604-b21e-432d7f8aa605-167646691472460acc-1": {
@@ -179,7 +179,7 @@
           "settings": {
             "icon1": "service",
             "title": "24\/7 Service",
-            "demotext": "Online Service für Kunden"
+            "demotext": "Online service for customers"
           }
         },
         "template--15816977940537__bf97d278-f9a2-4604-b21e-432d7f8aa605-167646691472460acc-2": {
@@ -187,7 +187,7 @@
           "settings": {
             "icon1": "offer",
             "title": "SPECIAL DEALS",
-            "demotext": "Angebote, Die Rocken"
+            "demotext": "Offers That Rock"
           }
         }
       },

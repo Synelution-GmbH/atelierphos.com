@@ -433,7 +433,7 @@
         "columns_desktop": 4,
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
-        "image_ratio": "adapt",
+        "image_ratio": "portrait",
         "display_product_type": false,
         "show_secondary_image": true,
         "show_vendor": false,

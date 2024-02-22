@@ -53,30 +53,46 @@
             "coll_desc": "Share information about your collection with customers."
           }
         },
+        "featured_collection_hce9bj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "coll_desc": "Share information about your collection with customers."
+          }
+        },
+        "featured_collection_xijg3U": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "coll_desc": "Share information about your collection with customers."
+          }
+        },
         "template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-0": {
           "type": "featured_collection",
           "settings": {
             "collection": "hoodie",
-            "coll_desc": "Klassische Streetwear-Stücke mit bequemer Kängurutasche und warmer Kapuze."
+            "coll_desc": "Classic streetwear pieces with a comfortable kangaroo pocket and warm hood."
           }
         },
         "template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-1": {
           "type": "featured_collection",
           "settings": {
             "collection": "t-shirts",
-            "coll_desc": "Moderne Trends mit einem Hauch von Nostalgie vereinen."
+            "coll_desc": "Combine modern trends with a touch of nostalgia."
           }
         },
         "template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-2": {
           "type": "featured_collection",
           "settings": {
             "collection": "caps-und-muetzen",
-            "coll_desc": "Ausgefallene Mützen und Caps"
+            "coll_desc": "Unusual hats and caps"
           }
         }
       },
       "block_order": [
         "759911da-db0a-4abc-8d19-f5cba7f40531",
+        "featured_collection_hce9bj",
+        "featured_collection_xijg3U",
         "template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-0",
         "template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-1",
         "template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-2"

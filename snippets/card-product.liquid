@@ -59,7 +59,7 @@
                             width="{{ card_product.featured_media.width }}"
                             height="{{ card_product.featured_media.height }}"
                             alt="{{ card_product.featured_media.alt | escape }}">
-                            {% comment %} {%- if card_product.media[1] != nil and show_secondary_image -%}
+                            {%- if card_product.media[1] != nil and show_secondary_image -%}
                             <img srcset="{%- if card_product.media[1].width >= 165 -%}{{ card_product.media[1] | image_url: width: 165 }} 165w,{%- endif -%}
                                   {%- if card_product.media[1].width >= 360 -%}{{ card_product.media[1] | image_url: width: 360 }} 360w,{%- endif -%}
                                   {% if card_product.media[1].width >= 493 %}{{ card_product.media[1] | image_url: width: 493 }} 493w,{% endif %}
@@ -75,7 +75,7 @@
                               loading="lazy"
                               width="{{ card_product.media[1].width }}"
                               height="{{ card_product.media[1].height }}">
-                        {%- endif -%} {% endcomment %}
+                        {%- endif -%}
                         </a>
                     </div>
                

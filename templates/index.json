@@ -426,7 +426,7 @@
     "featured_collection_JDxNYQ": {
       "type": "featured-collection",
       "settings": {
-        "title": "THE NEW COLLECTION",
+        "title": "",
         "heading_size": "h2",
         "collection": "all-products",
         "products_to_show": 8,
@@ -450,55 +450,6 @@
         "padding_top": 60,
         "padding_bottom": 20
       }
-    },
-    "5f6bc1e8-8c39-402d-96fc-ff06a142ee5c": {
-      "type": "collection-list",
-      "blocks": {
-        "template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "hoodie",
-            "coll_desc": "Classic streetwear pieces with a comfortable kangaroo pocket and warm hood."
-          }
-        },
-        "template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "t-shirts",
-            "coll_desc": "Combine modern trends with a touch of nostalgia."
-          }
-        },
-        "template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "accessoires",
-            "coll_desc": "Unusual hats, caps and tote bags"
-          }
-        }
-      },
-      "block_order": [
-        "template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-0",
-        "template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-1",
-        "template--15816977678393__5f6bc1e8-8c39-402d-96fc-ff06a142ee5c-167646533196330a39-2"
-      ],
-      "settings": {
-        "title": "Our Collections",
-        "heading_size": "h0",
-        "Horizontal_alignment": "center",
-        "mobile_alignment": "center",
-        "subheading": "",
-        "image_ratio": "adapt",
-        "btntxt": "Discover now",
-        "link": "shopify:\/\/collections",
-        "wboverlaycolor": "#000000",
-        "wboverlaybg": "#ffffff",
-        "wboverlayoutline": "#ffffff",
-        "wboverlayhcolor": "#ffffff",
-        "wboverlayhbg": "#000000",
-        "wboverlayhoutline": "#000000",
-        "padding_top": 60,
-        "padding_bottom": 0
-      }
     }
   },
   "order": [
@@ -512,7 +463,6 @@
     "1644902876a8ba65d3",
     "16449031867ba3e5f6",
     "99552a57-3946-4dd5-b0ec-81085d625dc8",
-    "featured_collection_JDxNYQ",
-    "5f6bc1e8-8c39-402d-96fc-ff06a142ee5c"
+    "featured_collection_JDxNYQ"
   ]
 }

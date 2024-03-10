@@ -24,7 +24,7 @@
         "show_colorswatch": false,
         "enable_filtering": false,
         "filter_type": "vertical",
-        "enable_sorting": true,
+        "enable_sorting": false,
         "columns_mobile": "2",
         "enable_listdesc": true,
         "padding_top": 0,

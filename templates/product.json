@@ -40,11 +40,6 @@
             "continue_selling_color": "#ff0000"
           }
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -93,7 +88,6 @@
         "price",
         "variant_picker",
         "7bc1714c-9d6a-4368-b677-08b46b8dee8a",
-        "quantity_selector",
         "buy_buttons",
         "3293aa46-ec0c-4c30-b783-8c210ee66f5e",
         "53d1b536-e8c6-416b-81ae-5537d48a8356",

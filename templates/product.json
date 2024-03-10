@@ -66,7 +66,7 @@
         "description": {
           "type": "description",
           "settings": {
-            "pdesc_title": "Product description"
+            "pdesc_title": ""
           }
         },
         "27036c39-0467-41e3-84cb-e6b47122d064": {
@@ -102,7 +102,7 @@
         "hide_variants": false,
         "enable_video_looping": false,
         "enable_desctab": false,
-        "padding_top": 0,
+        "padding_top": 28,
         "padding_bottom": 0
       }
     },
